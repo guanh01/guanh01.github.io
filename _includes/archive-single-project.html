@@ -26,11 +26,11 @@
       </div>
     {% endif %}
 
-<!--     <h3 class="archive__item-title" itemprop="headline">
-        <a href="{{ post.paperurl }}" rel="paperurl">{{ title }}</a> 
-    </h3> -->
-    <p><a href="{{ post.paperurl }}" rel="paperurl"><b>{{ title }}</b></a> <br />
-    {{ post.authors }} <br /> In <i>{{ post.venue}} </i></p>
+    <h2 class="archive__item-title" itemprop="headline">
+        {{title}}
+    </h2>
+
+    <p class="archive__item-excerpt" itemprop="description"> <i>{{ post.role }}</i><br /> {{ post.excerpt }}</p>
 
   </article>
 </div>
