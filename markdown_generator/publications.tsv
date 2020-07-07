@@ -1,4 +1,0 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2020-03	FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks	"3rd Conference on Machine Learning and Systems (MLSys), March 2020, Austin, TX, USA. (Acceptance rate: 20% (34/170)) "			mlsys20	http://academicpages.github.io/files/mlsys20.pdf
-2019-12	In-Place Zero-Space Memory Protection for CNN	"Advances in Neural Information Processing Systems, pp. 5735-5744. 2019. (Acceptance rate: 21.2% (1428/6743)) "			Nips19	http://academicpages.github.io/files/nips19.pdf
-2019-06	Wootz: a compiler-based framework for fast CNN pruning via composability.	"Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 717-730. ACM, 2019. (Acceptance rate: 27.7% (76/274)) "			Pldi19	http://academicpages.github.io/files/paper3.pdf
