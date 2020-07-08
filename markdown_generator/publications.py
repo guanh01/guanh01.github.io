@@ -21,7 +21,7 @@
 # In[1]:
 
 
-get_ipython().system('cat publications.csv')
+# get_ipython().system('cat publications.csv')
 
 
 # ## Import pandas
@@ -44,7 +44,7 @@ import pandas as pd
 
 
 publications = pd.read_csv("publications.csv", sep=",", header=0)
-publications
+# publications
 
 
 # ## Escape special characters
@@ -74,7 +74,7 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
-    print(item.pub_date)
+    print(item.pub_date, item.url_slug)
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = str(item.pub_date)[:4]
@@ -85,7 +85,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    # md += """\npermalink: /publication/""" + html_filename
     
 #     if len(str(item.excerpt)) > 5:
 #         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -123,13 +123,13 @@ for row, item in publications.iterrows():
 # In[6]:
 
 
-get_ipython().system('ls ../_publications/')
+# get_ipython().system('ls ../_publications/')
 
 
 # In[7]:
 
 
-get_ipython().system('cat ../_publications/2018-09-01-icde.md')
+# get_ipython().system('cat ../_publications/2018-09-01-icde.md')
 
 
 # In[ ]:

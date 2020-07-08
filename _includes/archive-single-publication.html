@@ -26,11 +26,14 @@
       </div>
     {% endif %}
 
-<!--     <h3 class="archive__item-title" itemprop="headline">
-        <a href="{{ post.paperurl }}" rel="paperurl">{{ title }}</a> 
-    </h3> -->
+    {% if post.paperurl %}
     <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" rel="paperurl"><b>{{ title }}</b></a> <br />
     {{ post.authors }} <br /> In <i>{{ post.venue}} </i></p>
+
+    {% else %}
+    <p class="archive__item-excerpt" itemprop="description"><b>{{ title }}</b><br />
+      {{ post.authors }} <br /> In <i>{{ post.venue}} </i> (to appear)</p>
+    {% endif %}
 
   </article>
 </div>
