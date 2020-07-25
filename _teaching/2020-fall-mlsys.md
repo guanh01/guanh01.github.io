@@ -10,7 +10,7 @@ excerpt: "This seminar discusses cutting-edge research on the topics of machine 
 Over the last few years, a wave of excitement about ML and deep learning has proliferated from academia to industry, transforming prototypes in research labs to valid solutions to real-world problems. Using ML entails developing end-to-end pipelines to collect data, clean it, and run learning and inference algorithms in a scalable manner. This results in computationally intense workloads and complex software pipelines. Systems for ML help users organize their data and scale these computationally intense problems to larger and larger datasets.
 At the same time, ML is having an increasing impact on systems design. Fine-tuned analytical heuristics and cost models are being replaced by learned models, following trends observed in other fields. 
 
-This seminar will focus on reading, presenting, and discussing recent papers in the domains of ML for systems and systems for ML. It follows the same structure as [COMPSCI 692S](https://marcoserafini.github.io/teaching/sysml/spring20/index.html) offered by Dr. Marco Serafini. The seminar is 1 credit only and doesn't have projects or exams. If you have interests in doing projects on machine learning systems, please contact [Dr. Hui Guan](huiguan@cs.umass.edu). 
+This seminar will focus on reading, presenting, and discussing recent papers in the domains of ML for systems and systems for ML. It follows the same structure as [COMPSCI 692S](https://marcoserafini.github.io/teaching/sysml/spring20/index.html) offered by Dr. Marco Serafini. The seminar is 1 credit only and doesn't have projects or exams. If you have interests in doing projects on machine learning systems, please let me know. 
 
 
 **Class Meetings**: TBD
