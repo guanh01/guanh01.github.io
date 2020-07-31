@@ -1,5 +1,5 @@
 ---
-title: "COMPSCI 692F: Machine Learning Systems"
+title: "COMPSCI 692S: SEMINAR - SYSTEMS FOR MACHINE LEARNING, MACHINE LEARNING FOR SYSTEMS"
 collection: teaching
 type: "Graduate Seminar, UMass Amherst"
 permalink: /teaching/2020-fall-mlsys
