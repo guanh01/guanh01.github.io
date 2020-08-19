@@ -10,56 +10,52 @@ excerpt: "This seminar discusses cutting-edge research on the topics of machine 
 Over the last few years, a wave of excitement about ML and deep learning has proliferated from academia to industry, transforming prototypes in research labs to valid solutions to real-world problems. Using ML entails developing end-to-end pipelines to collect data, clean it, and run learning and inference algorithms in a scalable manner. This results in computationally intense workloads and complex software pipelines. Systems for ML help users organize their data and scale these computationally intense problems to larger and larger datasets.
 At the same time, ML is having an increasing impact on systems design. Fine-tuned analytical heuristics and cost models are being replaced by learned models, following trends observed in other fields. 
 
-This seminar will focus on reading, presenting, and discussing recent papers in the domains of ML for systems and systems for ML. It follows the same structure as [COMPSCI 692S](https://marcoserafini.github.io/teaching/sysml/spring20/index.html) offered by Dr. Marco Serafini. The seminar is 1 credit only and doesn't have projects or exams. If you have interests in doing projects on machine learning systems, please let me know. 
+This seminar will focus on reading, presenting, and discussing recent papers in the domains of ML for systems and systems for ML. It follows the same structure as [COMPSCI 692S](https://marcoserafini.github.io/teaching/sysml/spring20/index.html) offered by Dr. Marco Serafini. It will primarily involve reading, presenting, and discussing recent papers in the domains of ML for systems and systems for ML (1 credit) and a final project focusing on a specific ML system topic (3 credits).  
 
 
-**Class Meetings**: TBD
+**Class Meetings**: 08/24/2020 - 11/20/2020, Wed. 11:15AM - 1:15PM, Online via Zoom 
 
-**Piazza**: TBD 
-
-
-# Seminar Structure
+**Piazza Signup Link**: piazza.com/umass/fall2020/compsci692s01
 
 
-## Course schedule
+## Seminar Structure
 
 
-| Date | Speakers | Topic | Papers | Review Form |
-|------|----------|-------|--------|-------------|
-| TBD  | TBD      | TBD   | TBD    | TBD         |
-|      |          |       |        |             |
+### Course schedule
+
+[schedule](https://github.com/guanh01/CS692-mlsys/blob/master/schedule.md)
 
 
 
-## Presentations
+### Presentations
 
-All students will be required to prepare a tutorial/presentation. Each tutorial will be presented by a group of 3 students. A tutorial will cover an area and present at least 3 papers from the reading list.
+All students will be required to prepare at least one presentation. Each presentation will be done by **a group of 3 students**. A presentation will cover an area and **present at least 3 papers** from the [reading list](https://github.com/guanh01/CS692-mlsys).
 
 The typical structure of a presentation would be along these lines:
 
-* What is the problem being addressed? Give context assuming people know nothing about the area. Why is the problem important? (Approx. 15 minutes)
-* Present the papers. Focus on the big ideas rather than the technicalities, but give enough details to make the presentation informative. (Approx. 40 minutes)
-* Discussion: Comparison between the different papers, strengths and weaknesses of each. (Approx. 10 minutes)
-* Q&A (Approx. 10 minutes)
-
-
-## Reviews 
-
-Groups will announce the 3 main papers they will present before the class. All students will have to read the papers and write a short review by the end of the day before the class. Links will be provided on Piazza and the course website.
+1. What is the problem being addressed? Give context assuming people know nothing about the area. Why is the problem important? _(Approx. 15 minutes)_
+2. Present the papers. Focus on the big ideas rather than the technicalities, but give enough details to make the presentation informative. _(Approx. 40 minutes)_
+3. Discussion: Comparison between the different papers, strengths and weaknesses of each. _(Approx. 10 minutes)_
+4. Q&A _(Approx. 10 minutes)_
 
 
 
-# Course Material
+### Reviews 
 
-This is the (evolving) reading list for the seminar. 
-
-## Systems for Machine Learning 
-TBD
-
-## Machine Learning for Systems 
-TBD
+**Groups will announce the 3 main papers** they will present before the class. **All students** will have to read the papers and write a short review by the end of the day before the class. Links will be provided on Piazza and the course website.
 
 
+### Projects (3 credits only)
+Students that have registered for the 3 credits section will also have to prepare a project. Students (in **groups of at most 3**) have to pick either 
+1. a system problem that can benefit from the use of ML algorithms, or 
+2. a use case ML application that requires systems support for data collection, machine learning training, inference, or a pipeline composing these steps. The choice will be agreed upon with the instructor.
 
+Students will then prepare a “problem statement” report where they describe the application and identify challenges in terms of scalability, reducing running time, and/or usability. Students will also propose a solution. The claims need to be validated experimentally.
+
+Students will need to implement the solution and finally write a report describing it. The final report will validate the system design through performance measurements and/or user studies. 
+
+## Course Material
+
+[Evolving List of papers](https://github.com/guanh01/CS692-mlsys)
 
 
