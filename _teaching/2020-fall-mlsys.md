@@ -15,7 +15,7 @@ This seminar follows the same structure as [COMPSCI 692S](https://marcoserafini.
 
 **Class Meetings**: 08/24/2020 - 11/20/2020, Wed. 11:15AM - 1:15PM, [Online via Zoom](https://umass-amherst.zoom.us/j/92411414412?pwd=OGxnM0trLzR5V2ZQMlJlbzJhbVVVdz09) 
 
-**Piazza Signup Link**: [piazza.com/umass/fall2020/compsci692s01](piazza.com/umass/fall2020/compsci692s01)
+**Piazza Signup Link**: [piazza.com/umass/fall2020/compsci692s01](www.piazza.com/umass/fall2020/compsci692s01)
 
 
 # Seminar Structure
