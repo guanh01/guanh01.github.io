@@ -18,3 +18,9 @@ Her research lies in the intersection between Machine Learning and Programming S
 - Improving Machine Learning (e.g., speed, scalability, reliability) through innovations in algorithms and programming systems (e.g., compilers, runtime);
 - Leveraging Machine Learning to improve High Performance Computing. 
 
+
+Openings
+-----
+I am looking for self-motivated Ph.D. students. Please email me with your CV and trancript if you are interested in my research.
+
+
