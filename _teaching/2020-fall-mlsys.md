@@ -59,6 +59,20 @@ Tentative project timeline:
 - Identify a Sys4ML or ML4sys problem and prepare 1-page problem statement (Sept. 20)
 - Evaluate the existing solutions and propose improvements (Nov. 17)
 - Final presentation: poster or slides  (Nov. 18) 
-- Final report in [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers) (Dec. 4)
+- Project Deadline. (Dec. 4) 
+    - Final report in [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers) 
+    - Source code. NOTE: Please ensure the results reported are reproducable: https://www.acm.org/publications/policies/artifact-review-and-badging-current
 
+## Grading 
 
+For 3-credit session: 
+- 20% participation (presentation and discussion) 
+- 20% reviews 
+- 60% course project: 
+    - presentation (20%) 
+    - report (20%) NOTE: 
+    - code (20%) 
+    
+For 1-credit session: 
+- 50% participation (presentation and discussion) 
+- 50% reviews 
