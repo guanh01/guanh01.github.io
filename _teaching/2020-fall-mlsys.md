@@ -61,7 +61,7 @@ Tentative project timeline:
 - Final presentation: poster or slides  (Nov. 18) 
 - Project Deadline. (Dec. 4) 
     - Final report in [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers) 
-    - Source code. NOTE: Please ensure the results reported are reproducable: https://www.acm.org/publications/policies/artifact-review-and-badging-current
+    - Source code. NOTE: Please ensure the results reported are reproducable: [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
 ## Grading 
 
@@ -70,7 +70,7 @@ For 3-credit session:
 - 20% reviews 
 - 60% course project: 
     - presentation (20%) 
-    - report (20%) NOTE: 
+    - report (20%)  
     - code (20%) 
     
 For 1-credit session: 
