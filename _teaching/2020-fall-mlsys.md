@@ -61,7 +61,7 @@ Tentative project timeline:
 - Final presentation: poster or slides  (Nov. 18) 
 - Project Deadline. (Dec. 4) 
     - Final report in [MLSys format](https://mlsys.org/Conferences/2021/CallForPapers) 
-    - Source code. NOTE: Please ensure the results reported are reproducable: [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
+    - Source code. NOTE: Please ensure the results reported are reproducable by preparing your code following this guideline: [https://ctuning.org/ae/submission.html ](https://ctuning.org/ae/submission.html)
 
 ## Grading 
 
