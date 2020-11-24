@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter "guanh01"
+  username               : "@guanh01"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hui Guan"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor \n Computer Science \n UMass Amherst"
+  bio              : "Assistant Professor, Computer Science, UMass Amherst"
   location         : "Amherst, MA 01003"
   employer         : #"UMass Amhesrt"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@guanh01"
   vine             :
   weibo            :
   xing             :
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: truetrue
+      comments: 
   # _projects
   - scope:
       path: ""
