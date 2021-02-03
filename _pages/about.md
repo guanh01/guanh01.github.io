@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I graduated with a Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020 (advisors: [Dr. Xipeng Shen](https://people.engr.ncsu.edu/xshen5/) and [Dr. Hamid Krim](https://www.ece.ncsu.edu/people/ahk/)). 
-
-I work on machine learning and programming systems. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab. 
+Hui Guan is an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. She received her Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. Her research interests lie in the broad fields of programming systems, machine learning, deep learning, and high performance computing. Her current research focuses on developing programming frameworks for efficient, scalable, and reliable machine learning. 
 
 
 Research
 ------
-My research lies in the intersection between Machine Learning and Programming Systems: 
-- Improving Machine Learning (e.g., speed, scalability, reliability) through innovations in algorithms and programming systems (e.g., compilers, runtime);
-- Leveraging Machine Learning to improve High Performance Computing. 
+My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime). I am also interested in leveraging Machine Learning to improve High Performance Computing. 
+I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. 
 
 I encourage all students interested in systems to attend the [systems lunch](https://emeryberger.com/systems-lunch/). 
 
