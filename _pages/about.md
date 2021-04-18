@@ -23,14 +23,15 @@ Awards
 - NCSU Electrical and Computer Engineering Outstanding Dissertation Award, 2020 
 - IBM PhD Fellowship, 2015-2018
 
+
 Professional Services
 ---- 
-- Program Committees: ASPLOS'21 (ERC), AAAI'21 
+- Program Committees: APSys'21, ICS'21, ISC'21 (poster), ICMM'21, LCTES'21, ASPLOS'21 (ERC), AAAI'21 
 
 
 Openings
 -----
-I am looking for self-motivated Ph.D. students. Please email me with your CV and trancript if you are interested in my research.
+I am looking for self-motivated Ph.D. students, especially in the direction of systems for machine learning. Please email me with your CV and trancript if you are interested in my research.
 
 
 
