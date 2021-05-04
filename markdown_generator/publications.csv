@@ -1,4 +1,4 @@
-﻿pub_date,authors,title,venue,url_slug,paper_url
+pub_date,authors,title,venue,url_slug,paper_url
 2016-06-01,"Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic",A Topological Collapse for Document Summarization,IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (<b>SPAWC'16</b>).,spawc,http://guanh01.github.io/files/2016spawc.pdf
 2016-12-01,"Hui Guan, Thanos Gentimis, Hamid , and James Keiser",First Study on Data Readiness Level,arXiv preprint arXiv:1702.02107 (Preprint),arxiv,http://guanh01.github.io/files/2017arxiv.pdf
 2017-01-01,"Yufei Ding, Lin Ning, Hui Guan, Xipeng Shen",Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction,Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (<b>PLDI'17</b>). (Acceptance rate: 15% (47/322)) ,pldi,http://guanh01.github.io/files/2017pldi.pdf
@@ -14,5 +14,4 @@
 2020-11-01,"Zifan Nan, Hui Guan, Xipeng Shen",HISyn: Human Learning-Inspired Natural Language Programming,The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<b>ESEC/FSE'20</b>). (acceptance rate: 101/360=28%) ,fse,http://guanh01.github.io/files/2020hisyn.pdf
 2020-11-01,"Hui Guan, Xipeng Shen, and Hamid Krim",An Automatic Synthesizer of Advising Tools for High Performance Computing,IEEE Transactions on Parallel and Distributed Systems (<b>TPDS 2020</b>). ,tpds,http://guanh01.github.io/files/2020tpds.pdf
 2021-01-01,"Zifan Nan, Hui Guan, Xipeng Shen, and Chunhua Liao",Deep NLP-Based Co-Evolvement for Synthesizing Code Analysis from Natural Language,The ACM SIGPLAN 2021 International Conference on Compiler Construction (<b>CC'21</b>),cc,http://guanh01.github.io/files/2021cc.pdf
-2021-04-01,"Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim",Reuse-centric k-means configuration,"Information Systems, 2021",kmeans,https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0
-,,,,,
+2021-04-01,"Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim",Reuse-Centric K-Means Configuration,"Information Systems, 2021",kmeans,https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0

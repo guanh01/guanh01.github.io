@@ -18,6 +18,18 @@ I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)
 
 I encourage all students interested in systems to attend the [systems lunch](https://emeryberger.com/systems-lunch/). 
 
+
+Openings
+-----
+I am looking for self-motivated Ph.D. students, especially in the direction of systems for machine learning. Please email me with your CV and trancript if you are interested in my research.
+
+
+News
+---- 
+- 5/3/21: I have received an [Adobe Research Collaboration Grant](https://research.adobe.com/collaborations/).
+- 5/1/21: Our paper "Reuse-Centric Kmeans Configuration" is accepted to [Information Systems](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430).
+
+
 Awards
 ---- 
 - NCSU Electrical and Computer Engineering Outstanding Dissertation Award, 2020 
@@ -29,9 +41,7 @@ Professional Services
 - Program Committees: APSys'21, ICS'21, ISC'21 (poster), ICMM'21, LCTES'21, ASPLOS'21 (ERC), AAAI'21 
 
 
-Openings
------
-I am looking for self-motivated Ph.D. students, especially in the direction of systems for machine learning. Please email me with your CV and trancript if you are interested in my research.
+
 
 
 
