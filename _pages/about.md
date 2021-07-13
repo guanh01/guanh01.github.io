@@ -26,10 +26,11 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- 6/1/21: CoCoPIE is accepted to [CACM'21](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext). 
-- 6/1/21: NumaPerf is accepted to [ICS'21](http://guanh01.github.io/files/2021ics.pdf).  
+- 6/4/21: Our paper “[Scalable Graph Neural Network Training: The Case for Sampling](http://guanh01.github.io/files/2021sampling.pdf)” has appeared in the ACM SIGOPS Operating Systems Review.
+- 6/1/21: [CoCoPIE]((https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext)) is accepted to CACM'21. 
+- 6/1/21: [NumaPerf]((http://guanh01.github.io/files/2021ics.pdf)) is accepted to ICS'21.  
 - 5/3/21: I have received an [Adobe Research Collaboration Grant](https://research.adobe.com/collaborations/).
-- 5/1/21: Our paper "Reuse-Centric Kmeans Configuration" is accepted to [Information Systems](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430).
+- 5/1/21: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems.
 
 
 Awards
