@@ -2,8 +2,8 @@
 title: "COMPSCI 532: Systems for Data Science"
 collection: teaching
 type: "Undergraduate/Graduate, UMass Amherst"
-link: https://sites.google.com/umass.edu/compsci-532/home
-date: 2021-1-24
+link: https://sites.google.com/umass.edu/compsci532-s21/home
+date: 2021-02-01
 excerpt: "In this course, students will learn the fundamentals behind large-scale systems used for data science."
 ---
 
