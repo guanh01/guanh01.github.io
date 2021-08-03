@@ -1,5 +1,5 @@
 ---
-title: "COMPSCI 532: Systems for Data Science"
+title: "COMPSCI 532: Systems for Data Science (Spring 2021)"
 collection: teaching
 type: "Undergraduate/Graduate, UMass Amherst"
 link: https://sites.google.com/umass.edu/compsci532-s21/home
