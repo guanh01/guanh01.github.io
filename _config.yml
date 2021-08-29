@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hui Guan"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Computer Science, UMass Amherst"
+  bio              : "Assistant Professor <br> <a href = \"https://www.cics.umass.edu\">College of Information & Computer Sciences</a> <br> University of Massachusetts Amherst"
   location         : "Amherst, MA 01003"
   employer         : #"UMass Amhesrt"
   pubmed           : 
