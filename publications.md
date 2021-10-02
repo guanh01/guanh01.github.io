@@ -1,14 +1,17 @@
 
 **Conferences**
 
+- **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
+<br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, and Xipeng Shen. 
+<br> In IEEE International Conference on Data Mining, 2021 (short paper). (Acceptance rate: 20% (198/990))  
+
 - **[ICS'21] NumaPerf: Predictive and Comprehensive NUMA Profiling.** [[PDF](http://guanh01.github.io/files/2021ics.pdf)]
 <br> Xin Zhao, Jin Zhou, Hui Guan, Wei Wang, Xu Liu, Tongping Liu. 
-<br> In Proceedings of International Conference on Supercomputing, 2021.  
+<br> In Proceedings of International Conference on Supercomputing, 2021. (Acceptance rate: 25% (39/157))
 
 - **[CC'21] Deep NLP-Based Co-Evolvement for Synthesizing Code Analysis from Natural Language.** [[PDF](http://guanh01.github.io/files/2021cc.pdf)]
 <br> Zifan Nan, Hui Guan, Xipeng Shen, and Chunhua Liao. 
 <br> In The ACM SIGPLAN 2021 International Conference on Compiler Construction, 2021. 
-
 
 
 - **[FSE'20] HISyn: Human Learning-Inspired Natural Language Programming.** [[PDF](http://guanh01.github.io/files/2020hisyn.pdf)] 
@@ -80,6 +83,10 @@
 
 
 **Workshop & Poster Papers**
+
+- **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** (to appear)
+<br> Shaurya Patel, Tongping Liu, Hui Guan. 
+<br> In MCHPC'21 Workshop. 
 
 - **[MLSys@NeurIPS'19] Post-Training 4-bit Quantization on Embedding Tables.** [[PDF](http://guanh01.github.io/files/2019fb.pdf)] 
 <br> Hui Guan, Andrey Malevich, Jiyan Yang,  Jongsoo Park, and Hector Yuen. 
