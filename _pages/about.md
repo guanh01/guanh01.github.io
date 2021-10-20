@@ -25,7 +25,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[Oct 2021]**: Our paper "FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks" is accepted to [MCHPC'21 Workshop](https://passlab.github.io/mchpc/mchpc2021/), in conjunction with SC'21.
+- **[Oct 2021]**: Our paper "[FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks](http://guanh01.github.io/files/2021mchpc.pdf)" is accepted to [MCHPC'21 Workshop](https://passlab.github.io/mchpc/mchpc2021/), in conjunction with SC'21.
 - **[Oct 2021]**: Our paper "[Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone](http://guanh01.github.io/files/2021rnn.pdf)" is accepted to [ICDM'21](https://icdm2021.auckland.ac.nz/).
 - **[June 2021]**: Our paper "[Scalable Graph Neural Network Training: The Case for Sampling](http://guanh01.github.io/files/2021sampling.pdf)" has appeared in the ACM SIGOPS Operating Systems Review.
 - **[June 2021]**: Our paper [CoCoPIE](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext) is accepted to CACM'21. 

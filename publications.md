@@ -84,7 +84,7 @@
 
 **Workshop & Poster Papers**
 
-- **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** (to appear)
+- **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** [[PDF](http://guanh01.github.io/files/2021mchpc.pdf)]
 <br> Shaurya Patel, Tongping Liu, Hui Guan. 
 <br> In MCHPC'21 Workshop. 
 
