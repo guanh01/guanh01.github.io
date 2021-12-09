@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. 
 
 <!-- My research interests lie in the broad fields of programming systems, machine learning, deep learning, and high performance computing. My current research focuses on developing programming frameworks for efficient, scalable, and reliable machine learning.  -->
-My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime). I am also interested in leveraging Machine Learning to improve High Performance Computing. 
+My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime). I am also interested in leveraging Machine Learning to improve High Performance Computing. My current research focuses on both algorithm and system optimizations of Deep Multi-Task Learning and Graph Machine Learning. 
 
 
 <!-- I encourage all students interested in systems to attend the [systems lunch](https://emeryberger.com/systems-lunch/).  -->

@@ -1,6 +1,14 @@
 
 **Conferences**
 
+- **[CGO'2022] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.**
+<br> Zifan Nan, Xipeng Shen, Hui Guan. 
+<br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.[to appear]
+
+- **[VLDB'22] COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.** [[PDF](https://arxiv.org/pdf/2111.09562.pdf)]
+<br> Sian Jin, Chengming Zhang, Xintong Jiang, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, and Dingwen Tao. 
+<br> In International Conference on Very Large Data Bases, 2022. 
+
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, and Xipeng Shen. 
 <br> In IEEE International Conference on Data Mining, 2021 (short paper). (Acceptance rate: 20% (198/990))  
