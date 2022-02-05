@@ -3,7 +3,7 @@
 
 - **[CGO'2022] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.**
 <br> Zifan Nan, Xipeng Shen, Hui Guan. 
-<br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.[to appear]
+<br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.[http://guanh01.github.io/files/2022cgo.pdf]
 
 - **[VLDB'22] COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.** [[PDF](https://arxiv.org/pdf/2111.09562.pdf)]
 <br> Sian Jin, Chengming Zhang, Xintong Jiang, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, and Dingwen Tao. 
