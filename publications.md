@@ -1,13 +1,20 @@
 
 **Conferences**
 
-- **[CGO'2022] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.**
+- **[ICME'2022] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
+<br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
+<br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
+
+
+- **[CGO'2022] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.** [[PDF](http://guanh01.github.io/files/2022cgo.pdf)]
 <br> Zifan Nan, Xipeng Shen, Hui Guan. 
-<br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.[http://guanh01.github.io/files/2022cgo.pdf]
+<br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.
+
 
 - **[VLDB'22] COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.** [[PDF](https://arxiv.org/pdf/2111.09562.pdf)]
 <br> Sian Jin, Chengming Zhang, Xintong Jiang, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, and Dingwen Tao. 
 <br> In International Conference on Very Large Data Bases, 2022. 
+
 
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, and Xipeng Shen. 
@@ -107,15 +114,15 @@
 
 - **[SPAWC'16] A topological collapse for document summarization.** [[PDF](http://guanh01.github.io/files/2016spawc.pdf)] 
 <br> Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic.  In 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), pp. 1-5. IEEE, 2016.
-\end{rSection}
 
 
 
-**Preprints**
 
-- **First Study on Data Readiness Level.** [[PDF](https://arxiv.org/abs/1702.02107)]
+<!-- **Preprints** -->
+
+<!-- - **First Study on Data Readiness Level.** [[PDF](https://arxiv.org/abs/1702.02107)]
 <br> Hui Guan, Thanos Gentimis, Hamid Krim, and James Keiser. 
-<br> arXiv preprint, 2017. 
+<br> arXiv preprint, 2017.  -->
 
 
 <!-- - **An Optimal Dynamic Program for r-Dominating Set over Tree Decompositions.**

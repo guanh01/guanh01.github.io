@@ -25,14 +25,30 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
+- **[Mar. 2022]**: Thanks for the support of [NVIDIA Academic Hardware Grant Program](https://mynvidia.force.com/HardwareGrant/s/Application) to the project "Multitasking-Centric Optimization for Deep Learning Applications". 
+
+- **[Mar. 2022]**: Our paper "[Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://guanh01.github.io/files/2022rethinking.pdf)" is accepted to [ICME'22](http://2022.ieeeicme.org/). Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). 
+
+- **[Mar. 2022]**: Our paper "[Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation](http://guanh01.github.io/files/2022cgo.pdf)" is accepted to [CGO'22](https://conf.researchr.org/home/cgo-2022).
+
+- **[Mar. 2022]**: Our paper "[COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression](https://arxiv.org/pdf/2111.09562.pdf)" is accepted to [VLDB'22](https://vldb.org/2022/).
+
 - **[Nov. 2021]**: Our collaborative project with [Prof. Zhou Lin](https://www.chem.umass.edu/faculty/zhou-lin) on "Accelerating Fragment-Based Quantum Chemistry via Machine Learning" received [UMass ADVANCE Collaborative Research Seed Grant](https://www.umass.edu/advance/find-funding/collaborative-research-seed-grants/collaborative-research-seed-grant-recipients-fall-1). 
+
 - **[Oct. 2021]**: Our paper "[FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks](http://guanh01.github.io/files/2021mchpc.pdf)" is accepted to [MCHPC'21 Workshop](https://passlab.github.io/mchpc/mchpc2021/), in conjunction with SC'21.
+
 - **[Oct. 2021]**: Our paper "[Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone](http://guanh01.github.io/files/2021rnn.pdf)" is accepted to [ICDM'21](https://icdm2021.auckland.ac.nz/).
-- **[June 2021]**: Our paper "[Scalable Graph Neural Network Training: The Case for Sampling](http://guanh01.github.io/files/2021sampling.pdf)" has appeared in the ACM SIGOPS Operating Systems Review.
+
+- **[June 2021]**: Our paper "[Scalable Graph Neural Network Training: The Case for Sampling](http://guanh01.github.io/files/2021sampling.pdf)" has appeared in the ACM SIGOPS 
+Operating Systems Review.
+
 - **[June 2021]**: Our paper [CoCoPIE](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext) is accepted to CACM'21. 
+
 - **[June 2021]**: Our paper [NumaPerf](http://guanh01.github.io/files/2021ics.pdf) is accepted to ICS'21.  
-- **[May 2021]**: I have received an [Adobe Research Collaboration Grant](https://research.adobe.com/collaborations/).
-- **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems.
+
+- **[May 2021]**: I have received an [Adobe Research Collaboration Grant](https://research.adobe.com/collaborations/) on developing resource-efficient deep multi-task learning solutions.
+
+- **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems. Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). 
 
 
 
