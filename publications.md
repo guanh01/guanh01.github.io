@@ -1,6 +1,12 @@
 
 **Conferences**
 
+
+- **[AutoML'2022] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)]
+<br> Lijun Zhang, Xiao Liu, Hui Guan. 
+<br> 1st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate: 19.2%)
+
+
 - **[ICME'2022] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
 <br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
 <br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
