@@ -105,6 +105,10 @@
 
 **Workshop & Poster Papers**
 
+- **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)]
+ <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
+ <br> [ICML2022 AI4Science Workshop](http://ai4science.net/icml22/)
+
 - **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** [[PDF](http://guanh01.github.io/files/2021mchpc.pdf)]
 <br> Shaurya Patel, Tongping Liu, Hui Guan. 
 <br> In MCHPC'21 Workshop. 
