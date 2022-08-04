@@ -10,8 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. 
 
-<!-- My research interests lie in the broad fields of programming systems, machine learning, deep learning, and high performance computing. My current research focuses on developing programming frameworks for efficient, scalable, and reliable machine learning.  -->
-My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime). I am also interested in leveraging Machine Learning to improve High Performance Computing. My current research focuses on both algorithm and system optimizations of Deep Multi-Task Learning and Graph Machine Learning. 
+My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime). I am also interested in leveraging Machine Learning to improve High Performance Computing and accelerate scientific discovery. My current research focuses on both algorithm and system optimizations of Deep Multi-Task Learning and Graph Machine Learning. 
 
 
 <!-- I encourage all students interested in systems to attend the [systems lunch](https://emeryberger.com/systems-lunch/).  -->
@@ -25,6 +24,8 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
+- **[Jul. 2022]**: Our work on [Fine-Grained Personalized Federated Learning Through Dynamic Routing](http://guanh01.github.io/files/2022flow.pdf) is accepted to [CrossFL'2022 Workshop @MLSys](https://crossfl2022.github.io/program/). Congratulations to Kunjal. 
+- **[Jul. 2022]**: Our work on [Improving Subgraph Representation Learning via Multi-View Augmentation](https://arxiv.org/pdf/2205.13038.pdf) is accepted to [AI4Science'22 Workshop @ICML](http://ai4science.net/icml22/schedule.html). 
 - **[May. 2022]**: Our paper "[A Tree-Structured Multi-Task Model Recommender](http://guanh01.github.io/files/2022automl.pdf)" is accepted to [AutoML'22](https://automl.cc/). Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). The project is [open-sourced](https://github.com/zhanglijun95/TreeMTL). 
 - **[May. 2022]**: Welcome a new PhD student Qizheng Yang to join our lab this summer.  
 - **[Mar. 2022]**: Thanks for the support of [NVIDIA Academic Hardware Grant Program](https://mynvidia.force.com/HardwareGrant/s/Application) to the project "Multitasking-Centric Optimization for Deep Learning Applications". 

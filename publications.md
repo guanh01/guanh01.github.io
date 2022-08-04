@@ -2,7 +2,7 @@
 **Conferences**
 
 
-- **[AutoML'2022] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)]
+- **[AutoML'2022] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> 1st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate: 19.2%)
 
@@ -104,6 +104,10 @@
 
 
 **Workshop & Poster Papers**
+
+- **[CrossFL'22]  Flow: Fine-grained Personalized Federated Learning through Dynamic Routing.** [[PDF](https://crossfl2022.github.io/abstracts/Abstract9.pdf)][[Poster](https://crossfl2022.github.io/posters/Poster9.pdf)]
+<br> Kunjal Panchal, Hui Guan
+<br> [CrossFL 2022 Workshop @ MLSys'22](https://crossfl2022.github.io/program/)
 
 - **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)]
  <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
