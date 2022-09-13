@@ -109,7 +109,7 @@
 <br> Kunjal Panchal, Hui Guan
 <br> [CrossFL 2022 Workshop @ MLSys'22](https://crossfl2022.github.io/program/)
 
-- **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)]
+- **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)][[talk](https://slideslive.com/38986179/improving-subgraph-representation-learning-via-multiview-augmentation)]
  <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
  <br> [ICML2022 AI4Science Workshop](http://ai4science.net/icml22/)
 
