@@ -24,7 +24,9 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[Sep. 2022]**: Thanks for the support of NSF to our project [Transparently Scaling Graph Neural Network Training to Large-Scale Models and Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2224054&HistoricalAwards=false).
+- **[Sept. 2022]**: Our work on [AutoMTL: A Programming Framework for
+Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022automtl.pdf) is accepted to [NeurIPS'22](https://nips.cc/). Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). The project is [open-sourced](https://github.com/zhanglijun95/AutoMTL)
+- **[Sept. 2022]**: Thanks for the support of NSF to our project [Transparently Scaling Graph Neural Network Training to Large-Scale Models and Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2224054&HistoricalAwards=false).
 - **[Jul. 2022]**: Our work on [Fine-Grained Personalized Federated Learning Through Dynamic Routing](http://guanh01.github.io/files/2022flow.pdf) is accepted to [CrossFL'2022 Workshop @MLSys](https://crossfl2022.github.io/program/). Congratulations to Kunjal. 
 - **[Jul. 2022]**: Our work on [Improving Subgraph Representation Learning via Multi-View Augmentation](https://arxiv.org/pdf/2205.13038.pdf) is accepted to [AI4Science'22 Workshop @ICML](http://ai4science.net/icml22/schedule.html). 
 - **[May. 2022]**: Our paper "[A Tree-Structured Multi-Task Model Recommender](http://guanh01.github.io/files/2022automl.pdf)" is accepted to [AutoML'22](https://automl.cc/). Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). The project is [open-sourced](https://github.com/zhanglijun95/TreeMTL). 
