@@ -4,8 +4,8 @@
 - **[NeurIPS'2022] AutoMTL: A Programming Framework for
 Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
-<br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
-. (Acceptance rate: 25.6%)
+<br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022), November 28, 2022.
+(Acceptance rate: 25.6%)
 
 - **[AutoML'2022] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
