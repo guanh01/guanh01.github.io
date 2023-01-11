@@ -1,6 +1,9 @@
 - **Program Committee:** 
-	- ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI): [2022](https://pldi22.sigplan.org/)
 	- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS): [2021 (ERC)](https://asplos-conference.org/2021/index.html), [2022 (ERC)](https://asplos-conference.org/), [2023](https://asplos-conference.org/)
+	- Conference on Machine Learning and Systems (MLSys): [2023](https://mlsys.org/)
+	- IEEE International Parallel and Distributed Procesing Symposium (IPDPS): [2023](https://www.ipdps.org/ipdps2023/2023-.html)
+	- ACM SIGPLAN 2023 International Conference on Compiler Construction (CC): [2023](https://conf.researchr.org/home/CC-2023)
+	- ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI): [2022](https://pldi22.sigplan.org/)
 	- ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP): [2022](https://ppopp22.sigplan.org/)
 	- Machine Learning in HPC Enviroments (MLHPC): [2022](https://ornl.github.io/MLHPC/index.html)
 	- ACM Asia-Pacific Workshop on Systems (APSys): [2021](https://i.cs.hku.hk/apsys2021/), [2022](https://ap-sys.org/)
@@ -9,6 +12,9 @@
 	- International Symposium on Memory Management (ICMM): 2021, 
 	- Languages, Compilers, Tools and Theory of Embedded Systems (LCTES): 2021, 
 
+- **Organzing Committee:**
+	- Conference on Machine Learning and Systems (MLSys): [2023 Artifact Evaluation Chairs](https://mlsys.org/Conferences/2023/OrganizingCommittee)
 
 - **Reviewer:** 
 	- AAAI Conference on Artificial Intelligence (AAAI): 2021, 2022 
+

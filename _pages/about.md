@@ -24,7 +24,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[Oct. 2022]**: I’m excited to share that we have received an Amazon Research Award for our proposal "Groot: A GPU-Resident System for Efficient Graph Machine Learning" at UMass Amherst. Learn more about the program on the website: https://amzn.to/ara-fall-winter-2021 
+- **[Oct. 2022]**: I’m excited to share that we have received an Amazon Research Award for our proposal "Groot: A GPU-Resident System for Efficient Graph Machine Learning" at UMass Amherst. Learn more about the program on the [website](https://amzn.to/ara-fall-winter-2021).  
 - **[Sept. 2022]**: Our work on [AutoMTL: A Programming Framework for
 Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022automtl.pdf) is accepted to [NeurIPS'22](https://nips.cc/). Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). The project is [open-sourced](https://github.com/zhanglijun95/AutoMTL)
 - **[Sept. 2022]**: Thanks for the support of NSF to our project [Transparently Scaling Graph Neural Network Training to Large-Scale Models and Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2224054&HistoricalAwards=false).
