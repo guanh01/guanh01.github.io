@@ -87,9 +87,15 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 
 **Journals**
 
+- **[IEEE Access'23] An Alternative Hard-Parameter Sharing Paradigm for Multi-Domain Learning.** [[PDF](https://ieeexplore.ieee.org/document/10028984)] 
+<br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
+<br> In A IEEE Access, 2023.  
+
+
 - **[OSR'21] Scalable Graph Neural Network Training: The Case for Sampling.** [[PDF](http://guanh01.github.io/files/2021sampling.pdf)] 
 <br> Marco Serafini, Hui Guan. 
-<br> In ACM SIGOPS Operating Systems Review, 2021.  
+<br> In ACM SIGOPS Operating Systems Review, 2021. 
+
 
 
 - **[CACM'21] CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design.** [[PDF](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext)] 
