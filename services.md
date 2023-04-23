@@ -1,13 +1,13 @@
 - **Program Committee:** 
-	- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS): [2021 (ERC)](https://asplos-conference.org/2021/index.html), [2022 (ERC)](https://asplos-conference.org/), [2023](https://asplos-conference.org/)
+	- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS): [2021 (ERC)](https://asplos-conference.org/2021/index.html), [2022 (ERC)](https://asplos-conference.org/), [2023](https://asplos-conference.org/), [2024](https://asplos-conference.org/asplos24cfp/)
 	- Conference on Machine Learning and Systems (MLSys): [2023](https://mlsys.org/)
-	- IEEE International Parallel and Distributed Procesing Symposium (IPDPS): [2023](https://www.ipdps.org/ipdps2023/2023-.html)
 	- ACM SIGPLAN 2023 International Conference on Compiler Construction (CC): [2023](https://conf.researchr.org/home/CC-2023)
-	- ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI): [2022](https://pldi22.sigplan.org/)
+	- International Conference on Supercomputing (ICS): [2021](https://ics21.github.io/), [2022](https://ics2022.github.io/index.html), [2023](https://nschiele.github.io/ICS2023/)
+	- IEEE International Parallel and Distributed Procesing Symposium (IPDPS): [2023](https://www.ipdps.org/ipdps2023/2023-.html)
+	- ACM Asia-Pacific Workshop on Systems (APSys): [2021](https://i.cs.hku.hk/apsys2021/), [2022](https://ap-sys.org/)
 	- ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP): [2022](https://ppopp22.sigplan.org/)
 	- Machine Learning in HPC Enviroments (MLHPC): [2022](https://ornl.github.io/MLHPC/index.html)
-	- ACM Asia-Pacific Workshop on Systems (APSys): [2021](https://i.cs.hku.hk/apsys2021/), [2022](https://ap-sys.org/)
-	- International Conference on Supercomputing (ICS): [2021](https://ics21.github.io/), [2022](https://ics2022.github.io/index.html)
+	- ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI): [2022](https://pldi22.sigplan.org/)
 	- ISC High Performance (ISC): 2021 (poster), 
 	- International Symposium on Memory Management (ICMM): 2021, 
 	- Languages, Compilers, Tools and Theory of Embedded Systems (LCTES): 2021, 

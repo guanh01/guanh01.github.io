@@ -1,5 +1,8 @@
 
 **Conferences**
+- **[MobiCom'2023] Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios.** [[PDF](http://guanh01.github.io/files/2023mobicom.pdf)]
+<br> Jin Huang, Hui Guan, Deepak Ganesan. 
+<br> The 29th International Conference on Mobile Computing and Networking, Madrid, Spain, Oct. 2-6, 2023
 
 - **[NeurIPS'2022] AutoMTL: A Programming Framework for
 Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
