@@ -1,11 +1,24 @@
 
-**Conferences**
+<!-- **Conferences** --> 
+
+- **[ICML'2023] Flash: Concept Drift Adaptation in Federated Learning.** [Coming Soon]
+<br> Kunjal Panchal, Sunav Choudhary, Subrata Mitra, Koyel Mukherjee, Somdeb Sarkhel, Saayan Mitra, Hui Guan. 
+<br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
+
+- **[ICML'2023] Automatically marginalized MCMC in probabilistic programming.** [Coming Soon]
+<br> Jinlin Lai, Javier Burroni, Hui Guan, Daniel Sheldon. 
+<br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
+
 - **[MobiCom'2023] Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios.** [[PDF](http://guanh01.github.io/files/2023mobicom.pdf)]
 <br> Jin Huang, Hui Guan, Deepak Ganesan. 
 <br> The 29th International Conference on Mobile Computing and Networking, Madrid, Spain, Oct. 2-6, 2023
 
-- **[NeurIPS'2022] AutoMTL: A Programming Framework for
-Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
+- **[IEEE Access'23] An Alternative Hard-Parameter Sharing Paradigm for Multi-Domain Learning.** [[PDF](https://ieeexplore.ieee.org/document/10028984)] 
+<br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
+<br> In IEEE Access, 2023.  
+
+
+- **[NeurIPS'2022] AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022), November 28, 2022.
 (Acceptance rate: 25.6%)
@@ -30,6 +43,15 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 <br> In International Conference on Very Large Data Bases, 2022. 
 
 
+- **[CrossFL'22]  Flow: Fine-grained Personalized Federated Learning through Dynamic Routing.** [[PDF](https://crossfl2022.github.io/abstracts/Abstract9.pdf)][[Poster](https://crossfl2022.github.io/posters/Poster9.pdf)]
+<br> Kunjal Panchal, Hui Guan
+<br> [CrossFL 2022 Workshop @ MLSys'22](https://crossfl2022.github.io/program/)
+
+- **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)][[talk](https://slideslive.com/38986179/improving-subgraph-representation-learning-via-multiview-augmentation)]
+ <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
+ <br> [ICML2022 AI4Science Workshop](http://ai4science.net/icml22/)
+
+
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, and Xipeng Shen. 
 <br> In IEEE International Conference on Data Mining, 2021 (short paper). (Acceptance rate: 20% (198/990))  
@@ -43,6 +65,24 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 <br> In The ACM SIGPLAN 2021 International Conference on Compiler Construction, 2021. 
 
 
+- **[OSR'21] Scalable Graph Neural Network Training: The Case for Sampling.** [[PDF](http://guanh01.github.io/files/2021sampling.pdf)] 
+<br> Marco Serafini, Hui Guan. 
+<br> In ACM SIGOPS Operating Systems Review, 2021. 
+
+- **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** [[PDF](http://guanh01.github.io/files/2021mchpc.pdf)]
+<br> Shaurya Patel, Tongping Liu, Hui Guan. 
+<br> In MCHPC'21 Workshop. 
+
+- **[CACM'21] CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design.** [[PDF](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext)] 
+<br> Hui Guan, Shaoshan Liu, Xiaolong Ma, Wei Niu, Bin Ren, Xipeng Shen, Yanzhi Wang, Pu Zhao. (Authors in Alphabetical Order)
+<br> In Communications of the ACM, 2021. 
+
+
+- **[InformationSystems'21] Reuse-Centric K-Means Configuration.** [[PDF]](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)] 
+<br> Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim. 
+<br> Information Systems, 2021. 
+
+
 - **[FSE'20] HISyn: Human Learning-Inspired Natural Language Programming.** [[PDF](http://guanh01.github.io/files/2020hisyn.pdf)] 
 <br> Zifan Nan, Hui Guan, Xipeng Shen. 
 <br> In The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Sacramento, California, United States, November 2020. (Acceptance rate: 101/360=28%) 
@@ -51,6 +91,11 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 - **[MLSys'20] FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.** [[PDF](http://guanh01.github.io/files/2020mlsys.pdf)] 
 <br> Hui Guan, Laxmikant Kishor Mokadam, Xipeng Shen, Robert Patton. 
 <br> MLSys'20. (Acceptance rate: 20.0% (34/170)). 
+
+
+- **[TPDS'20] An Automatic Synthesizer of Advising Tools for High Performance Computing.** [[PDF](http://guanh01.github.io/files/2020tpds.pdf)] 
+<br> Hui Guan, Xipeng Shen, and Hamid Krim. 
+<br> In IEEE Transactions on Parallel and Distributed Systems (TPDS), 2020 
 
 
 - **[NeurIPS'19] In-Place Zero-Space Memory Protection for CNN.** [[PDF](https://papers.nips.cc/paper/8810-in-place-zero-space-memory-protection-for-cnn.pdf)] 
@@ -62,11 +107,13 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 <br> Hui Guan, Xipeng Shen, and Seung-Hwan Lim. 
 <br> In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 717-730. ACM, 2019. (Acceptance rate: 27.7% (76/274)) 
 
-
 - **[ICDE'19] Adaptive Deep Reuse: Accelerating CNN Training on the Fly.** [[PDF](http://guanh01.github.io/files/2019icde.pdf)] 
 <br> Lin Ning, Hui Guan, and Xipeng Shen. 
 <br> In 2019 IEEE 35th International Conference on Data Engineering (ICDE), pp. 1538-1549. IEEE, 2019. (Acceptance rate: 18%)
 
+- **[MLSys@NeurIPS'19] Post-Training 4-bit Quantization on Embedding Tables.** [[PDF](http://guanh01.github.io/files/2019fb.pdf)] 
+<br> Hui Guan, Andrey Malevich, Jiyan Yang,  Jongsoo Park, and Hector Yuen. 
+<br> MLSys Workshop on Systems for ML @ NeurIPS, 2019. 
 
 - **[SC'18] Exploring Flexible Communications for Streamlining DNN Ensemble Training Pipelines.** [[PDF](http://guanh01.github.io/files/2018sc.pdf)] 
 <br> Randall Pittman, Hui Guan, Xipeng Shen, Seung-Hwan Lim, and Robert M. Patton. 
@@ -76,6 +123,10 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 <br> Hui Guan, Yufei Ding, Xipeng Shen, and Hamid Krim. 
 <br> In 2018 IEEE 34th International Conference on Data Engineering (ICDE), pp. 1224-1227. IEEE, 2018. (short paper) (Acceptance rate: 23%)
 
+- **[SysML'18] TOP: A Compiler-Based Framework for Optimizing Machine Learning Algorithms through Generalized Triangle Inequality.** [[PDF](http://guanh01.github.io/files/2018top.pdf)] 
+<br> Yufei Ding, Lin Ning, Hui Guan, Xipeng Shen, Madanlal Musuvathi, Todd Mytkowicz.
+<br> SysML, Feb 16th, 2018, Stanford University, 2018. 
+
 - **[SC'17] Egeria: a Framework for Automatic Synthesis of HPC Advising Tools through Multi-Layered Natural Language Processing.** [[PDF](http://guanh01.github.io/files/2017sc.pdf)] 
 <br> Hui Guan, Xipeng Shen, and Hamid Krim. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, p. 10. ACM, 2017. (Acceptance rate: 18% (61/327))
@@ -84,80 +135,7 @@ Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/file
 <br> Yufei Ding, Lin Ning, Hui Guan, and Xipeng Shen.
 <br> In Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 33-48. ACM, 2017. (Acceptance rate: 15% (47/322)) 
 
-
-
-
-
-**Journals**
-
-- **[IEEE Access'23] An Alternative Hard-Parameter Sharing Paradigm for Multi-Domain Learning.** [[PDF](https://ieeexplore.ieee.org/document/10028984)] 
-<br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
-<br> In A IEEE Access, 2023.  
-
-
-- **[OSR'21] Scalable Graph Neural Network Training: The Case for Sampling.** [[PDF](http://guanh01.github.io/files/2021sampling.pdf)] 
-<br> Marco Serafini, Hui Guan. 
-<br> In ACM SIGOPS Operating Systems Review, 2021. 
-
-
-
-- **[CACM'21] CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design.** [[PDF](https://cacm.acm.org/magazines/2021/6/252819-cocopie/fulltext)] 
-<br> Hui Guan, Shaoshan Liu, Xiaolong Ma, Wei Niu, Bin Ren, Xipeng Shen, Yanzhi Wang, Pu Zhao. (Authors in Alphabetical Order)
-<br> In Communications of the ACM, 2021. 
-
-
-
-- **[InformationSystems'21] Reuse-Centric K-Means Configuration.** [[PDF]](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)] 
-<br> Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim. 
-<br> Information Systems, 2021. 
-
-- **[TPDS'20] An Automatic Synthesizer of Advising Tools for High Performance Computing.** [[PDF](http://guanh01.github.io/files/2020tpds.pdf)] 
-<br> Hui Guan, Xipeng Shen, and Hamid Krim. 
-<br> In IEEE Transactions on Parallel and Distributed Systems (TPDS), 2020 
-
-
-
-**Workshop & Poster Papers**
-
-- **[CrossFL'22]  Flow: Fine-grained Personalized Federated Learning through Dynamic Routing.** [[PDF](https://crossfl2022.github.io/abstracts/Abstract9.pdf)][[Poster](https://crossfl2022.github.io/posters/Poster9.pdf)]
-<br> Kunjal Panchal, Hui Guan
-<br> [CrossFL 2022 Workshop @ MLSys'22](https://crossfl2022.github.io/program/)
-
-- **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)][[talk](https://slideslive.com/38986179/improving-subgraph-representation-learning-via-multiview-augmentation)]
- <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
- <br> [ICML2022 AI4Science Workshop](http://ai4science.net/icml22/)
-
-- **[MCHPC'21] FreeLunch: Compression-based GPU Memory Management for Convolutional Neural Networks.** [[PDF](http://guanh01.github.io/files/2021mchpc.pdf)]
-<br> Shaurya Patel, Tongping Liu, Hui Guan. 
-<br> In MCHPC'21 Workshop. 
-
-- **[MLSys@NeurIPS'19] Post-Training 4-bit Quantization on Embedding Tables.** [[PDF](http://guanh01.github.io/files/2019fb.pdf)] 
-<br> Hui Guan, Andrey Malevich, Jiyan Yang,  Jongsoo Park, and Hector Yuen. 
-<br> MLSys Workshop on Systems for ML @ NeurIPS, 2019. 
-
-
-- **[SysML'18] TOP: A Compiler-Based Framework for Optimizing Machine Learning Algorithms through Generalized Triangle Inequality.** [[PDF](http://guanh01.github.io/files/2018top.pdf)] 
-<br> Yufei Ding, Lin Ning, Hui Guan, Xipeng Shen, Madanlal Musuvathi, Todd Mytkowicz.
-<br> SysML, Feb 16th, 2018, Stanford University, 2018. 
-
 - **[SPAWC'16] A topological collapse for document summarization.** [[PDF](http://guanh01.github.io/files/2016spawc.pdf)] 
 <br> Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic.  In 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), pp. 1-5. IEEE, 2016.
 
 
-
-
-<!-- **Preprints** -->
-
-<!-- - **First Study on Data Readiness Level.** [[PDF](https://arxiv.org/abs/1702.02107)]
-<br> Hui Guan, Thanos Gentimis, Hamid Krim, and James Keiser. 
-<br> arXiv preprint, 2017.  -->
-
-
-<!-- - **An Optimal Dynamic Program for r-Dominating Set over Tree Decompositions.**
-  <br> Glencora Borradaile and **Hung Le**
-  <br> The 11th International Symposium on Parameterized and Exact Computation. **IPEC 2016**.
-  <br>[[PDF](https://arxiv.org/pdf/1502.00716.pdf)][[IPEC](http://drops.dagstuhl.de/opus/volltexte/2017/6919/pdf/LIPIcs-IPEC-2016-8.pdf)]<br>
-  <details><summary style="color:#7C4700">Abstract</summary>
-  <font color = "#7C4700">There has been recent progress in showing that the exponential dependence on treewidth in dynamic programming algorithms for solving NP-hard problems are optimal under the Strong Exponential Time Hypothesis (SETH). We extend this work to $r$-domination problems. In $r$-dominating set, one wished to find a minimum subset S of vertices such that every vertex of $G$ is within $r$ hops of some vertex in $S$. In connected $r$-dominating set, one additionally requires that the set induces a connected subgraph of $G$. We give a $O((2r + 1)^{\mathrm{tw}}n)$ time algorithm for $r$-dominating set and a $O((2r + 2)^{\mathrm{tw}}n^{O(1)})$ time algorithm for connected $r$-dominating set in $n$-vertex graphs of treewidth $\mathrm{tw}$. We show that the running time dependence on $r$ and $\mathrm{tw}$ is the best possible under SETH. This adds to earlier observations that a "+1" in the denominator is required for connectivity constraints.</font>
-  </details>
- -->
