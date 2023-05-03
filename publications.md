@@ -1,15 +1,23 @@
 
-<!-- **Conferences** --> 
+**2023** 
 
-- **[ICML'2023] Flash: Concept Drift Adaptation in Federated Learning.** [Coming Soon]
+- **[Manuscript] GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism.** [[PDF](https://arxiv.org/pdf/2303.13775.pdf)]
+<br> Sandeep Polisetty, Juelin Liu, Kibi Falus, Yi Ren Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini. 
+<br> Arxiv, 2023. 
+
+- **[ICML'23] Flash: Concept Drift Adaptation in Federated Learning.** [Coming Soon]
 <br> Kunjal Panchal, Sunav Choudhary, Subrata Mitra, Koyel Mukherjee, Somdeb Sarkhel, Saayan Mitra, Hui Guan. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
-- **[ICML'2023] Automatically marginalized MCMC in probabilistic programming.** [Coming Soon]
+- **[ICML'23] Automatically marginalized MCMC in probabilistic programming.** [Coming Soon]
 <br> Jinlin Lai, Javier Burroni, Hui Guan, Daniel Sheldon. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
-- **[MobiCom'2023] Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios.** [[PDF](http://guanh01.github.io/files/2023mobicom.pdf)]
+- **[ISMM'23] NUMAlloc: A Faster NUMA Memory Allocator.** [Coming Soon] 
+<br> Hanmei Yang, Xin Zhao, Jin Zhou, Wei Wang, Sandip Kundu, Bo Wu, Hui Guan, and Tongping Liu.
+<br> ACM SIGPLAN International Symposium on Memory Management, 2023.  
+
+- **[MobiCom'23] Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios.** [[PDF](http://guanh01.github.io/files/2023mobicom.pdf)]
 <br> Jin Huang, Hui Guan, Deepak Ganesan. 
 <br> The 29th International Conference on Mobile Computing and Networking, Madrid, Spain, Oct. 2-6, 2023
 
@@ -17,23 +25,24 @@
 <br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
 <br> In IEEE Access, 2023.  
 
+**2022** 
 
-- **[NeurIPS'2022] AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
+- **[NeurIPS'22] AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022), November 28, 2022.
 (Acceptance rate: 25.6%)
 
-- **[AutoML'2022] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
+- **[AutoML'22] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> 1st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate: 19.2%)
 
 
-- **[ICME'2022] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
+- **[ICME'22] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
 <br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan. 
 <br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
 
 
-- **[CGO'2022] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.** [[PDF](http://guanh01.github.io/files/2022cgo.pdf)]
+- **[CGO'22] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.** [[PDF](http://guanh01.github.io/files/2022cgo.pdf)]
 <br> Zifan Nan, Xipeng Shen, Hui Guan. 
 <br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.
 
@@ -49,8 +58,9 @@
 
 - **[AI4Science@ICML'22] Improving Subgraph Representation Learning via Multi-View Augmentation.** [[PDF](https://arxiv.org/pdf/2205.13038.pdf)][[talk](https://slideslive.com/38986179/improving-subgraph-representation-learning-via-multiview-augmentation)]
  <br> Yili Shen, Jiaxu Yan, Cheng-Wei Ju, Jun Yi, Zhou Lin, Hui Guan
- <br> [ICML2022 AI4Science Workshop](http://ai4science.net/icml22/)
+ <br> [ICML 2022 AI4Science Workshop](http://ai4science.net/icml22/)
 
+**2021**
 
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, and Xipeng Shen. 
@@ -82,6 +92,7 @@
 <br> Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim. 
 <br> Information Systems, 2021. 
 
+**2020 and Before**
 
 - **[FSE'20] HISyn: Human Learning-Inspired Natural Language Programming.** [[PDF](http://guanh01.github.io/files/2020hisyn.pdf)] 
 <br> Zifan Nan, Hui Guan, Xipeng Shen. 
