@@ -24,7 +24,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[May. 2023]**: Our work on "Flash: Concept Drift Adaptation in Federated Learning"  is accepted to ICML'23. It proposes a novel adaptive optimier that simultanuously addresses both data heterogeneity and the concept drift issues in federated learning.  
+- **[May. 2023]**: Our work on "Flash: Concept Drift Adaptation in Federated Learning"  is accepted to ICML'23. It proposes a novel adaptive optimizer that simultanuously addresses both data heterogeneity and the concept drift issues in federated learning.  
 
 - **[May. 2023]**: Our work on "Automatically marginalized MCMC in probabilistic programming"  is accepted to ICML'23. It proposes automatic marginalization to make sampling process using Hamiltonian Monte Carlo more efficient.  
 

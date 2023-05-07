@@ -5,7 +5,7 @@
 <br> Sandeep Polisetty, Juelin Liu, Kibi Falus, Yi Ren Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini. 
 <br> Arxiv, 2023. 
 
-- **[ICML'23] Flash: Concept Drift Adaptation in Federated Learning.** [Coming Soon]
+- **[ICML'23] Flash: Concept Drift Adaptation in Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flash.pdf)]
 <br> Kunjal Panchal, Sunav Choudhary, Subrata Mitra, Koyel Mukherjee, Somdeb Sarkhel, Saayan Mitra, Hui Guan. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
@@ -13,7 +13,7 @@
 <br> Jinlin Lai, Javier Burroni, Hui Guan, Daniel Sheldon. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
-- **[ISMM'23] NUMAlloc: A Faster NUMA Memory Allocator.** [Coming Soon] 
+- **[ISMM'23] NUMAlloc: A Faster NUMA Memory Allocator.** [[PDF](http://guanh01.github.io/files/2023ismm.pdf)] 
 <br> Hanmei Yang, Xin Zhao, Jin Zhou, Wei Wang, Sandip Kundu, Bo Wu, Hui Guan, and Tongping Liu.
 <br> ACM SIGPLAN International Symposium on Memory Management, 2023.  
 
