@@ -14,8 +14,8 @@ I am an Assistant Professor in the [College of Information and Computer Sciences
 While modern machine learning and deep learning have made impressive progress, effectively adopting these techniques raises a fundamental question: "How to create models that can efficiently deliver reliable predictions for different applications running on various systems?" My group addresses the challenge by designing algorithms and programming systems that reduce the model development and deployment costs under different training and inference settings and extend the reach of deep learning techniques to resource-constrained devices. In particular, we currently focus on the following two directions: 
 
 - Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
-[AutoMTL](https://github.com/zhanglijun95/AutoMTL) at NeurIPS'22, 
-[TreeMTL](https://github.com/zhanglijun95/TreeMTL) at AutoML'22), and
+[AutoMTL](http://guanh01.github.io/files/2022automtl.pdf) at NeurIPS'22, 
+[TreeMTL](http://guanh01.github.io/files/2022automl.pdf) at AutoML'22), and
 graph machine learning (e.g., 
 [GSplit](https://arxiv.org/pdf/2303.13775.pdf)).
 
