@@ -11,20 +11,19 @@ redirect_from:
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
 
 
-While modern machine learning and deep learning have made impressive progress, effectively adopting these techniques raises a fundamental question: "how to create models that can efficiently deliver reliable predictions for different applications running on various systems?" My group addresses the challenge by designing algorithms and programming systems that reduce the costs of model development and deployment under different training and inference settings and extend the reach of deep learning techniques to resource-constrained devices. In particular, we currently focus on the following two directions: 
+While modern machine learning and deep learning have made impressive progress, effectively adopting these techniques raises a fundamental question: "How to create models that can efficiently deliver reliable predictions for different applications running on various systems?" My group addresses the challenge by designing algorithms and programming systems that reduce the model development and deployment costs under different training and inference settings and extend the reach of deep learning techniques to resource-constrained devices. In particular, we currently focus on the following two directions: 
 
-- Programming system support for emerging machine learning workloads including multi-task learning (e.g., 
+- Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
 [AutoMTL](https://github.com/zhanglijun95/AutoMTL) at NeurIPS'22, 
-[TreeMTL](https://github.com/zhanglijun95/TreeMTL)) at AutoML'22), 
+[TreeMTL](https://github.com/zhanglijun95/TreeMTL) at AutoML'22), and
 graph machine learning (e.g., 
-[GSplit](https://arxiv.org/pdf/2303.13775.pdf)), and 
-.
+[GSplit](https://arxiv.org/pdf/2303.13775.pdf)).
 
 
-- Scalable and efficient machine learning on the edge platforms including 
+- Scalable and efficient machine learning on edge platforms including 
+scalable model serving,
 on-device inference (e.g., 
-[FLEET](http://guanh01.github.io/files/2023mobicom.pdf) at MobiCom'23), 
-model serving, and 
+[FLEET](http://guanh01.github.io/files/2023mobicom.pdf) at MobiCom'23), and 
 federated learning (e.g., 
 [Flash](http://guanh01.github.io/files/2023flash.pdf) at ICML'23). 
 
