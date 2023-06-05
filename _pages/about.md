@@ -11,7 +11,10 @@ redirect_from:
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
 
 
-While modern machine learning and deep learning have made impressive progress, effectively adopting these techniques raises a fundamental question: "How to create models that can efficiently deliver reliable predictions for different applications running on various systems?" My group addresses the challenge by designing algorithms and programming systems that reduce the costs of model development and enable model deployment under different settings. In particular, we currently focus on the following two directions: 
+Modern machine learning, especially deep learning, has shown dramatic progress. 
+Its effective adoption, however, faces a fundamental question: how to create models that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems.
+My group addresses the challenge by designing algorithms and programming systems that reduce model development costs and enable model deployment under different settings. 
+In particular, we currently focus on the following two directions: 
 
 - Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
 [AutoMTL](http://guanh01.github.io/files/2022automtl.pdf) at NeurIPS'22, 
