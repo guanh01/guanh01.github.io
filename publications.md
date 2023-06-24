@@ -1,5 +1,8 @@
 
 **2023** 
+- **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [coming soon] 
+<br> Lijun Zhang, Xiao Liu, Hui Guan. 
+<br> IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 
 - **[Manuscript] GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism.** [[PDF](https://arxiv.org/pdf/2303.13775.pdf)]
 <br> Sandeep Polisetty, Juelin Liu, Kibi Falus, Yi Ren Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini. 
@@ -9,7 +12,7 @@
 <br> Kunjal Panchal, Sunav Choudhary, Subrata Mitra, Koyel Mukherjee, Somdeb Sarkhel, Saayan Mitra, Hui Guan. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
-- **[ICML'23] Automatically marginalized MCMC in probabilistic programming.** [Coming Soon]
+- **[ICML'23] Automatically marginalized MCMC in probabilistic programming.** [[PDF](https://arxiv.org/pdf/2302.00564.pdf)]
 <br> Jinlin Lai, Javier Burroni, Hui Guan, Daniel Sheldon. 
 <br> 40th International Conference on Machine Learning, Jul. 23-29, 2023
 
