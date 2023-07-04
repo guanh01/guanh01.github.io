@@ -1,6 +1,6 @@
 
 **2023** 
-- **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [coming soon] 
+- **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [[PDF](https://ieeexplore.ieee.org/document/10171463)] 
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 
