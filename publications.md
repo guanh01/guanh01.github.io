@@ -1,5 +1,10 @@
 
 **2023** 
+
+- **[PACT'23] Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs.** [Coming soon]
+<br> Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini.
+<br> The 32nd International Conference on Parallel Architectures and Compilation Techniques, Oct. 21-25, 2023. 
+
 - **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [[PDF](https://ieeexplore.ieee.org/document/10171463)] 
 <br> Lijun Zhang, Xiao Liu, Hui Guan. 
 <br> IEEE Transactions on Neural Networks and Learning Systems, 2023.  
