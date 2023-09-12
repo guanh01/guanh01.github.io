@@ -8,44 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
+I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in machine learning systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
 
 
-Modern machine learning, especially deep learning, has shown dramatic progress. 
-Its effective adoption, however, faces a fundamental question: how to create models that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems.
-My group addresses the challenge by designing algorithms and programming systems that reduce model development costs and enable model deployment under different settings. 
-In particular, we currently focus on the following two directions: 
-
-- Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
-[AutoMTL](http://guanh01.github.io/files/2022automtl.pdf) at NeurIPS'22, 
-[TreeMTL](http://guanh01.github.io/files/2022automl.pdf) at AutoML'22), and
-graph machine learning (e.g., 
-[GSplit](https://arxiv.org/pdf/2303.13775.pdf)).
-
-
-- Scalable and efficient machine learning on edge platforms including 
-scalable model serving,
-on-device inference (e.g., 
-[FLEET](http://guanh01.github.io/files/2023mobicom.pdf) at MobiCom'23), and 
-federated learning (e.g., 
-[Flash](http://guanh01.github.io/files/2023flash.pdf) at ICML'23). 
-
-
-<!-- My current research focuses on both algorithm and system optimizations of Deep Multi-Task Learning and Graph Machine Learning.  -->
-
-
-<!-- I encourage all students interested in systems to attend the [systems lunch](https://emeryberger.com/systems-lunch/).  -->
-<!-- If you are interested in working with me, please be in touch with me **after** you complete your application.  Please check out [here](https://www.cics.umass.edu/admissions/application-instructions) for general requirement; GRE is NOT required for PhD admission. Note that I cannot answer the questions regarding your chance of being admitted, so please do not ask.  -->
-
-<!-- 
-Openings
------
-I am looking for self-motivated Ph.D. students, especially in the direction of systems for machine learning. Please email me with your CV and trancript if you are interested in my research. -->
+Modern machine learning, especially deep learning, has made remarkable progress. However, its effective adoption faces a fundamental question: How can we create models that _efficiently_ deliver _reliable_ predictions to meet the requirements of  _diverse applications running on various systems_?
+In response to this question, my group focuses on addressing the core challenges related to
+(1) reducing the costs of machine learning model development and
+(2) bringing deep learning applications to resource-constrained edge environments.
+The approaches we pursue draw insights from the unique properties of machine learning workloads, 
+such as their inherent accuracy-efficient trade-offs, as well as system design principles such as composability, pipelining, and locality awareness. 
+Ultimately, our goal is to help democratize machine learning by transforming it into an accessible commodity technology that can be applied to a wide range of real-world scenarios. 
 
 
 News
 ----
-- **[Aug. 2023]**: Thanks for the support of NSF to our project [Deep Learning on Anomaly Detection for Human Dynamics and Hazard Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2220211&HistoricalAwards=false). With collaborators, we will work on graph machine learning on anomaly detection. 
+- **[Sept. 2023]**: Congratulations to [Sohaib Ahmad](https://sohaibahmad759.github.io/) for our work on "Proteus: A High-Throughput Inference-Serving System
+with Accuracy Scaling" accepted to [ASPLOS'24](https://www.asplos-conference.org/asplos2024/). 
+
+- **[Sept. 2023]**: Thanks for the support of NSF to our project [Memory-Driven Full-Stack Collaboration for Embedded Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312396&HistoricalAwards=false). With collaborators, we will bring the power of deep learning to resource-constrained embedded systems! 
+
+- **[Aug. 2023]**: Thanks for the support of NSF to our project [Deep Learning on Anomaly Detection for Human Dynamics and Hazard Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2220211&HistoricalAwards=false). With collaborators, we will work on graph machine learning for anomaly detection. 
 
 - **[Aug. 2023]**: Congratulations to Juelin and Sandeep for their work on "Accelerating Subgraph Enumeration Using Auxiliary Graphs" accepted to [PACT'23](https://pact2023.github.io/). 
 
