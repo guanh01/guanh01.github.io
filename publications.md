@@ -1,7 +1,17 @@
 
-**2023** 
+**2024** 
+- **[ASPLOS'24] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.** (coming soon)
+<br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
+<br> The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024.
 
-- **[PACT'23] Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs.** [Coming soon]
+
+**2023** 
+- **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** (coming soon)
+<br> Kunjal Panchal, Sunav Choudhary, Nisarg Parikh, Lijun Zhang, Hui Guan.
+<br> The 2023 Conference on Neural Information Processing Systems, Dec. 10-16, 2023. 
+
+- **[PACT'23] GraphMini: Accelerating Graph Pattern Matching
+Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMini.pdf)]
 <br> Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini.
 <br> The 32nd International Conference on Parallel Architectures and Compilation Techniques, Oct. 21-25, 2023. 
 

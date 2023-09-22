@@ -22,8 +22,11 @@ Ultimately, our goal is to help democratize machine learning by transforming it 
 
 News
 ----
-- **[Sept. 2023]**: Congratulations to [Sohaib Ahmad](https://sohaibahmad759.github.io/) for our work on "Proteus: A High-Throughput Inference-Serving System
-with Accuracy Scaling" accepted to [ASPLOS'24](https://www.asplos-conference.org/asplos2024/). 
+- **[Sept. 2023]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for our work on "Flow: Per-instance Personalized Federated Learning" accepted to [NeurIPS'23](https://nips.cc/). 
+
+- **[Sept. 2023]**: Congratulations to [Lijun Zhang](https://zhanglijun95.github.io/resume/) for the [2023 IBM PhD Fellowship Award](https://research.ibm.com/university/awards/fellowships.html). 
+
+- **[Sept. 2023]**: Congratulations to [Sohaib Ahmad](https://sohaibahmad759.github.io/) for our work on "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" accepted to [ASPLOS'24](https://www.asplos-conference.org/asplos2024/). 
 
 - **[Sept. 2023]**: Thanks for the support of NSF to our project [Memory-Driven Full-Stack Collaboration for Embedded Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312396&HistoricalAwards=false). With collaborators, we will bring the power of deep learning to resource-constrained embedded systems! 
 
