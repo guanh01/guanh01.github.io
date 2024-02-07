@@ -22,6 +22,8 @@ Ultimately, our goal is to help democratize machine learning by transforming it 
 
 News
 ----
+- **[Feb. 2024]**: Congratulations to Qizheng Yang for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EurSys'24](https://2024.eurosys.org/).  
+
 - **[Sept. 2023]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for our work on "Flow: Per-instance Personalized Federated Learning" accepted to [NeurIPS'23](https://nips.cc/). 
 
 - **[Sept. 2023]**: Congratulations to [Lijun Zhang](https://zhanglijun95.github.io/resume/) for the [2023 IBM PhD Fellowship Award](https://research.ibm.com/university/awards/fellowships.html). 

@@ -1,5 +1,10 @@
 
 **2024** 
+- **[EurSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [Coming Soon]
+<br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, Hui Guan.
+<br> The 2024 European Conference on Computer Systems (EurSys), April 22-25, 2024.
+
+
 - **[ASPLOS'24] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.** [[PDF](http://guanh01.github.io/files/2024proteus.pdf)][[Code](https://github.com/UMass-LIDS/Proteus)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
 <br> The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024.

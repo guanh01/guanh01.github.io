@@ -1,5 +1,7 @@
 - **Program Committee:** 
 	- ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS): [2021 (ERC)](https://asplos-conference.org/2021/index.html), [2022 (ERC)](https://asplos-conference.org/), [2023](https://asplos-conference.org/), [2024](https://asplos-conference.org/asplos24cfp/)
+	- International Conference on Mobile Computing and Networking (MobiCom): [2024](https://www.sigmobile.org/mobicom/2024/index.html)
+	- International Symposium on Computer Architecture (ISCA): [2024 ERC](https://iscaconf.org/isca2024/)
 	- Conference on Machine Learning and Systems (MLSys): [2023](https://mlsys.org/)
 	- ACM SIGPLAN 2023 International Conference on Compiler Construction (CC): [2023](https://conf.researchr.org/home/CC-2023)
 	- International Conference on Supercomputing (ICS): [2021](https://ics21.github.io/), [2022](https://ics2022.github.io/index.html), [2023](https://nschiele.github.io/ICS2023/)
