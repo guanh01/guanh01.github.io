@@ -22,6 +22,9 @@ Ultimately, our goal is to help democratize machine learning by transforming it 
 
 News
 ----
+- **[Feb. 2024]**: Thanks for the support from the NSF for the CAREER award on [Adaptive Deep Learning Systems Towards Edge Intelligence](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338512&HistoricalAwards=false). 
+
+
 - **[Feb. 2024]**: Congratulations to Qizheng Yang for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EurSys'24](https://2024.eurosys.org/).  
 
 - **[Sept. 2023]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for our work on "Flow: Per-instance Personalized Federated Learning" accepted to [NeurIPS'23](https://nips.cc/). 
@@ -88,6 +91,7 @@ Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022aut
 
 Awards
 ---- 
+- NSF CAREER Award, 2024 
 - NCSU Electrical and Computer Engineering Outstanding Dissertation Award, 2020 
 - IBM PhD Fellowship, 2015-2018
 
