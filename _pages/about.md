@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in machine learning systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
 
 
-Modern machine learning, especially deep learning, has made remarkable progress. However, its effective adoption faces a fundamental question: How can we create models that _efficiently_ deliver _reliable_ predictions to meet the requirements of  _diverse applications running on various systems_?
+Modern machine learning, especially deep learning, has made remarkable progress. However, its effective adoption faces a fundamental question: How can we _create models _that efficiently deliver reliable predictions to meet the requirements of  _diverse applications running on various systems_?
 In response to this question, my group focuses on addressing the core challenges related to
 (1) reducing the costs of machine learning model development and
 (2) bringing deep learning applications to resource-constrained edge environments.
@@ -22,10 +22,14 @@ Ultimately, our goal is to help democratize machine learning by transforming it 
 
 News
 ----
+- **[Mar. 2024]**: Congratulations to Mohammad for our work "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference" accepted to [MobiSys'24](https://www.sigmobile.org/mobisys/2024/). 
+
+- **[Mar. 2024]**: Thanks for the gift funds from [Adobe](https://research.adobe.com/) and [Dobly](https://www.dolby.com/). 
+
 - **[Feb. 2024]**: Thanks for the support from the NSF for the CAREER award on [Adaptive Deep Learning Systems Towards Edge Intelligence](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338512&HistoricalAwards=false). 
 
 
-- **[Feb. 2024]**: Congratulations to Qizheng Yang for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EurSys'24](https://2024.eurosys.org/).  
+- **[Feb. 2024]**: Congratulations to Qizheng Yang for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EuroSys'24](https://2024.eurosys.org/).  
 
 - **[Sept. 2023]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for our work on "Flow: Per-instance Personalized Federated Learning" accepted to [NeurIPS'23](https://nips.cc/). 
 
@@ -92,6 +96,7 @@ Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022aut
 Awards
 ---- 
 - NSF CAREER Award, 2024 
+- Amazon Research Award, 2022 
 - NCSU Electrical and Computer Engineering Outstanding Dissertation Award, 2020 
 - IBM PhD Fellowship, 2015-2018
 

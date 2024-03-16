@@ -1,9 +1,12 @@
 
 **2024** 
-- **[EurSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [Coming Soon]
-<br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, Hui Guan.
-<br> The 2024 European Conference on Computer Systems (EurSys), April 22-25, 2024.
+- **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [Coming Soon]
+<br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
+<br> The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Tokyo, Japan, June 3-7, 2024. 
 
+- **[EuroSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](http://guanh01.github.io/files/2024eurosys-gmorph.pdf)][[Code](https://github.com/qizhengyang98/GMorph/tree/master)]
+<br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, Hui Guan.
+<br> The 2024 European Conference on Computer Systems (EuroSys), April 22-25, 2024.
 
 - **[ASPLOS'24] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.** [[PDF](http://guanh01.github.io/files/2024proteus.pdf)][[Code](https://github.com/UMass-LIDS/Proteus)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
