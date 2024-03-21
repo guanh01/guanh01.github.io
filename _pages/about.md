@@ -11,13 +11,7 @@ redirect_from:
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in machine learning systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
 
 
-Modern machine learning, especially deep learning, has made remarkable progress. However, its effective adoption faces a fundamental question: How can we _create models _that efficiently deliver reliable predictions to meet the requirements of  _diverse applications running on various systems_?
-In response to this question, my group focuses on addressing the core challenges related to
-(1) reducing the costs of machine learning model development and
-(2) bringing deep learning applications to resource-constrained edge environments.
-The approaches we pursue draw insights from the unique properties of machine learning workloads, 
-such as their inherent accuracy-efficient trade-offs, as well as system design principles such as composability, pipelining, and locality awareness. 
-Ultimately, our goal is to help democratize machine learning by transforming it into an accessible commodity technology that can be applied to a wide range of real-world scenarios. 
+My research addresses a fundamental question in Machine Learning adoption: _How can we create models that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on two main challenges: (1) reducing the costs of model development and (2) enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
 
 
 News
