@@ -4,6 +4,11 @@
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
 <br> The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Tokyo, Japan, June 3-7, 2024.  -->
 
+- **[HPDC'24] Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling.** [Coming Soon]
+<br> Sohaib Ahmad, Hui Guan, Ramesh K. Sitaraman.
+<br> The 33rd International Symposium on
+High-Performance Parallel and Distributed Computing (HPDC'24), Pisa, Italy, June 3-7, 2024. (Acceptance Rate = 17% (26/152))
+
 - **[EuroSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](http://guanh01.github.io/files/2024eurosys-gmorph.pdf)][[Code](https://github.com/qizhengyang98/GMorph/tree/master)]
 <br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, Hui Guan.
 <br> The 2024 European Conference on Computer Systems (EuroSys), April 22-25, 2024.

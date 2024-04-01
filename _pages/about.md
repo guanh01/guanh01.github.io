@@ -17,6 +17,7 @@ My research addresses a fundamental question in Machine Learning adoption: _How 
 News
 ----
 <!-- - **[Mar. 2024]**: Congratulations to Mohammad for our work "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference" accepted to [MobiSys'24](https://www.sigmobile.org/mobisys/2024/).  -->
+- **[Mar. 2024]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for our work "Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling" accepted to [HPDC'24](https://www.hpdc.org/2024/). 
 
 - **[Mar. 2024]**: Thanks for the gift funds from [Adobe](https://research.adobe.com/) and [Dobly](https://www.dolby.com/). 
 
