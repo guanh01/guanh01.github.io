@@ -1,8 +1,8 @@
 
 **2024** 
-<!-- - **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [Coming Soon]
+- **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [Coming Soon]
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
-<br> The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Tokyo, Japan, June 3-7, 2024.  -->
+<br> The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Tokyo, Japan, June 3-7, 2024. 
 
 - **[HPDC'24] Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling.** [Coming Soon]
 <br> Sohaib Ahmad, Hui Guan, Ramesh K. Sitaraman.

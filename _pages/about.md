@@ -16,7 +16,8 @@ My research addresses a fundamental question in Machine Learning adoption: _How 
 
 News
 ----
-<!-- - **[Mar. 2024]**: Congratulations to Mohammad for our work "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference" accepted to [MobiSys'24](https://www.sigmobile.org/mobisys/2024/).  -->
+- **[Mar. 2024]**: Congratulations to [Mohammad](https://ir.linkedin.com/in/mohammad-mehdi-rastikerdar-6a2947137?trk=public_profile_browsemap) for our work "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference" accepted to [MobiSys'24](https://www.sigmobile.org/mobisys/2024/). 
+
 - **[Mar. 2024]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for our work "Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling" accepted to [HPDC'24](https://www.hpdc.org/2024/). 
 
 - **[Mar. 2024]**: Thanks for the gift funds from [Adobe](https://research.adobe.com/) and [Dobly](https://www.dolby.com/). 
@@ -24,7 +25,7 @@ News
 - **[Feb. 2024]**: Thanks for the support from the NSF for the CAREER award on [Adaptive Deep Learning Systems Towards Edge Intelligence](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338512&HistoricalAwards=false). 
 
 
-- **[Feb. 2024]**: Congratulations to Qizheng Yang for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EuroSys'24](https://2024.eurosys.org/).  
+- **[Feb. 2024]**: Congratulations to [Qizheng Yang](https://www.linkedin.com/in/qizheng-yang-117359231) for our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" accepted to [EuroSys'24](https://2024.eurosys.org/).  
 
 - **[Sept. 2023]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for our work on "Flow: Per-instance Personalized Federated Learning" accepted to [NeurIPS'23](https://nips.cc/). 
 
