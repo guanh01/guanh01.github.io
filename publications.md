@@ -1,8 +1,15 @@
 
 **2024** 
+- **[MM'24] AdapMTL: Adaptive Pruning Framework for Multitask Learning
+Model.** [[PDF](https://arxiv.org/pdf/2408.03913)][Code]
+<br> Mingcan Xiang, Jiaxun Tang, Qizheng Yang, Hui Guan, Tongping Liu
+<br> MM ’24, October 28-November 1, 2024, Melbourne, VIC, Australia
+<br> https://doi.org/10.1145/3664647.3681426
+
 - **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [[PDF](http://guanh01.github.io/files/2024mobisys-cactus.pdf)][[Code](https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference)]
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
 <br> The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Tokyo, Japan, June 3-7, 2024. 
+<br> https://doi.org/10.1145/3643832.3661888
 
 - **[HPDC'24] Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling.** [[PDF](http://guanh01.github.io/files/2024hpdc-loki.pdf)]
 <br> Sohaib Ahmad, Hui Guan, Ramesh K. Sitaraman.
@@ -12,11 +19,12 @@ High-Performance Parallel and Distributed Computing (HPDC'24), Pisa, Italy, June
 - **[EuroSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](http://guanh01.github.io/files/2024eurosys-gmorph.pdf)][[Code](https://github.com/qizhengyang98/GMorph/tree/master)]
 <br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, Hui Guan.
 <br> The 2024 European Conference on Computer Systems (EuroSys), April 22-25, 2024.
+<br> https://doi.org/10.1145/3627703.3650074 
 
 - **[ASPLOS'24] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.** [[PDF](http://guanh01.github.io/files/2024proteus.pdf)][[Code](https://github.com/UMass-LIDS/Proteus)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
 <br> The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024.
-
+<br> https://doi.org/10.1145/3617232.3624849
 
 **2023** 
 - **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flow.pdf)][[Code](https://github.com/Astuary/Flow)]
