@@ -1,5 +1,13 @@
 
 **2024** 
+- **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [PDF][Code]
+<br> Lijun Zhang, Xiao Liu, Antoni Viros i Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
+<br> NeurIPS ’24, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver  
+
+- **[NeurIPS'24] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.** [PDF][Code]
+<br> Kunjal Panchal, Nisarg Parikh, Sunav Choudhary, Lijun Zhang, Yuriy Brun, Hui Guan
+<br> NeurIPS ’24, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver
+
 - **[MM'24] AdapMTL: Adaptive Pruning Framework for Multitask Learning
 Model.** [[PDF](https://arxiv.org/pdf/2408.03913)][Code]
 <br> Mingcan Xiang, Jiaxun Tang, Qizheng Yang, Hui Guan, Tongping Liu
