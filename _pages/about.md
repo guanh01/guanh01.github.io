@@ -15,9 +15,9 @@ My research aims to address a fundamental question in Machine Learning adoption:
 
 News
 ----
-- **[Oct. 2024]**: Congratulations to [Lijun Zhang] for our work "Attack-Resilient Image Watermarking Using Stable Diffusion" accepted to [NeurIPS'24]. 
+- **[Oct. 2024]**: Congratulations to Lijun Zhang for our work "Attack-Resilient Image Watermarking Using Stable Diffusion" accepted to NeurIPS'24. 
 
-- **[Oct. 2024]**: Congratulations to [Kunjal Panchal] for our work "Thinking Forward: Memory-Efficient Federated Finetuning of Language Models" accepted to [NeurIPS'24]. 
+- **[Oct. 2024]**: Congratulations to Kunjal Panchal for our work "Thinking Forward: Memory-Efficient Federated Finetuning of Language Models" accepted to NeurIPS'24. 
 
 - **[Mar. 2024]**: Congratulations to [Mohammad](https://ir.linkedin.com/in/mohammad-mehdi-rastikerdar-6a2947137?trk=public_profile_browsemap) for our work "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference" accepted to [MobiSys'24](https://www.sigmobile.org/mobisys/2024/). 
 

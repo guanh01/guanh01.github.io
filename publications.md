@@ -1,8 +1,12 @@
 
 **2024** 
+- **[MLforSys@NeurIPS'24] Understanding and Alleviating Memory Issue in RLHF for LLMs.**[[PDF](https://openreview.net/pdf?id=Hldy0yDrr1)]
+<br> Jin Zhou, Hanmei Yang, Steven Jiaxun Tang, Mingcan Xiang, Hui Guan, Tongping Liu
+<br> NeurIPS’24 Workshop MLforSys, Dec 14, 2024, Vancouver
+
 - **[AI4Mat@NeurIPS'24] Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces.**[[PDF](https://openreview.net/pdf?id=ra3CxVuhUf)] 
 <br> Siqi Chen, Zhiqiang Wang, Xianqi Deng, Yili Shen, Cheng-Wei Ju, Jun Yi, Lin Xiong, Guo Ling, Dieaa Alhmoud, Hui Guan, Zhou Lin
-<br> NeurIPS’24 Workshop AI4Mat, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver
+<br> NeurIPS’24 Workshop AI4Mat, Dec 15, 2024, Vancouver
 
 - **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [[PDF](http://guanh01.github.io/files/2024zodiac.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
 <br> Lijun Zhang, Xiao Liu, Antoni Viros i Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
