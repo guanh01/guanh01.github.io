@@ -1,18 +1,26 @@
 
 **2024** 
-- **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [PDF][Code]
+- **[AI4Mat@NeurIPS'24] Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces.**[[PDF](https://openreview.net/pdf?id=ra3CxVuhUf)] 
+<br> Siqi Chen, Zhiqiang Wang, Xianqi Deng, Yili Shen, Cheng-Wei Ju, Jun Yi, Lin Xiong, Guo Ling, Dieaa Alhmoud, Hui Guan, Zhou Lin
+<br> NeurIPS’24 Workshop AI4Mat, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver
+
+- **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [[PDF](http://guanh01.github.io/files/2024zodiac.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
 <br> Lijun Zhang, Xiao Liu, Antoni Viros i Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
 <br> NeurIPS ’24, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver  
 
-- **[NeurIPS'24] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.** [PDF][Code]
+- **[NeurIPS'24] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.** [[PDF](http://guanh01.github.io/files/2024spry.pdf)][[Code](https://github.com/Astuary/Spry)]
 <br> Kunjal Panchal, Nisarg Parikh, Sunav Choudhary, Lijun Zhang, Yuriy Brun, Hui Guan
 <br> NeurIPS ’24, Mon, Dec 9, 2024 – Sun, Dec 15, 2024, Vancouver
 
-- **[MM'24] AdapMTL: Adaptive Pruning Framework for Multitask Learning
-Model.** [[PDF](https://arxiv.org/pdf/2408.03913)][Code]
+- **[ACM MM'24] AdapMTL: Adaptive Pruning Framework for Multitask Learning
+Model.** [[PDF](https://arxiv.org/pdf/2408.03913)]
 <br> Mingcan Xiang, Jiaxun Tang, Qizheng Yang, Hui Guan, Tongping Liu
-<br> MM ’24, October 28-November 1, 2024, Melbourne, VIC, Australia
+<br> ACM MM ’24, October 28-November 1, 2024, Melbourne, VIC, Australia
 <br> https://doi.org/10.1145/3664647.3681426
+
+- **[MIPR'24] Structured Pruning for Multi-Task Deep Neural Networks.**[[PDF](https://arxiv.org/pdf/2304.06840)]
+<br> Siddhant Garg, Lijun Zhang, Hui Guan 
+<br> International Conference on Multimedia Information Processing and Retrieval, 2024.
 
 - **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [[PDF](http://guanh01.github.io/files/2024mobisys-cactus.pdf)][[Code](https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference)]
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
@@ -33,6 +41,8 @@ High-Performance Parallel and Distributed Computing (HPDC'24), Pisa, Italy, June
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
 <br> The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024.
 <br> https://doi.org/10.1145/3617232.3624849
+
+
 
 **2023** 
 - **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flow.pdf)][[Code](https://github.com/Astuary/Flow)]
