@@ -10,11 +10,16 @@ redirect_from:
 
 I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in machine learning systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning.  
 
-My research aims to address a fundamental question in Machine Learning adoption: _How can we create models that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on reducing the costs of model development and enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
+My research aims to address a fundamental question in Machine Learning adoption: _How can we create machine learning systems that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on reducing the costs of model development and enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
 
 
 News
 ----
+- **[Feb. 2025]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for successfully defending his PhD Thesis on "Optimized Resource Allocation for Serving Deep Learning Models". :tada::balloon:
+
+- **[Feb. 2025]**: Congratulations to Sohaib and Qizheng for our work "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling" accepted to MLSys'25. We use Diffusion Models as a case study to demonstrate the potential of model cascading in improving model serving system efficiency (e.g, higher throughput, lower SLO violations, etc) :fire: 
+
+
 - **[Oct. 2024]**: Congratulations to Lijun Zhang for our work "Attack-Resilient Image Watermarking Using Stable Diffusion" accepted to NeurIPS'24. 
 
 - **[Oct. 2024]**: Congratulations to Kunjal Panchal for our work "Thinking Forward: Memory-Efficient Federated Finetuning of Language Models" accepted to NeurIPS'24. 

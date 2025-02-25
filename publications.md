@@ -1,5 +1,25 @@
+**2025** 
+
+
+<!-- - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF]]
+<br> Sandeep Polisetty, Juelin Liu, Yi Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini
+<br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025 (Acceptance Rate = 22% (61/271)) -->
+
+- **[MLSys'25] DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling.** [[PDF](https://arxiv.org/pdf/2411.15381)]
+<br> Sohaib Ahmad (co-first author), Qizheng Yang (co-first author), Haoliang Wang, Ramesh K. Sitaraman, and Hui Guan 
+<br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025. (Acceptance Rate = 22% (61/271))
+
+- **[VLDB'25] Graph neural network training systems: A performance comparison of full-graph and mini-batch.**[[PDF](https://arxiv.org/pdf/2406.00552)]
+<br> Saurabh Bajaj, Hojae Son, Juelin Liu, Hui Guan, and Marco Serafini
+<br> Proceedings of the VLDB Endowment, 2025
+
+
 
 **2024** 
+- **[IEEE Access'24] Information-Enhanced Graph Neural Network for Transcending Homophily Barriers.**[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10810421)]
+<br> Xiao Liu, Lijun Zhang, Hui GUan
+<br> In IEEE Access, 2024.  
+
 - **[MLforSys@NeurIPS'24] Understanding and Alleviating Memory Issue in RLHF for LLMs.**[[PDF](https://openreview.net/pdf?id=Hldy0yDrr1)]
 <br> Jin Zhou, Hanmei Yang, Steven Jiaxun Tang, Mingcan Xiang, Hui Guan, Tongping Liu
 <br> NeurIPS’24 Workshop MLforSys, Dec 14, 2024, Vancouver
