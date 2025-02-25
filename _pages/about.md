@@ -15,9 +15,10 @@ My research aims to address a fundamental question in Machine Learning adoption:
 
 News
 ----
-- **[Feb. 2025]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for successfully defending his PhD Thesis on "Optimized Resource Allocation for Serving Deep Learning Models". :tada::balloon:
+- **[Feb. 2025]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for successfully defending his PhD Thesis on "Optimized Resource Allocation for Serving Deep Learning Models". 🎉🎉🎉
 
-- **[Feb. 2025]**: Congratulations to Sohaib and Qizheng for our work "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling" accepted to MLSys'25. We use Diffusion Models as a case study to demonstrate the potential of model cascading in improving model serving system efficiency (e.g, higher throughput, lower SLO violations, etc) :fire: 
+- **[Feb. 2025]**: Congratulations to Sohaib and Qizheng for our work "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling" accepted to MLSys'25. We use Diffusion Models as a case study to demonstrate the potential of model cascading in improving model serving system efficiency (e.g, higher throughput, lower SLO violations, etc) 
+🔥🔥🔥 
 
 
 - **[Oct. 2024]**: Congratulations to Lijun Zhang for our work "Attack-Resilient Image Watermarking Using Stable Diffusion" accepted to NeurIPS'24. 
