@@ -1,9 +1,7 @@
 **2025** 
-
-
-<!-- - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF]]
+ - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF]]
 <br> Sandeep Polisetty, Juelin Liu, Yi Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini
-<br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025 (Acceptance Rate = 22% (61/271)) -->
+<br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025 (Acceptance Rate = 22% (61/271)) 
 
 - **[MLSys'25] DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling.** [[PDF](https://arxiv.org/pdf/2411.15381)]
 <br> Sohaib Ahmad (co-first author), Qizheng Yang (co-first author), Haoliang Wang, Ramesh K. Sitaraman, and Hui Guan 
