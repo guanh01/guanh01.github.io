@@ -1,5 +1,11 @@
 **2025** 
- - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF]]
+
+ - **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807))]
+<br> Lijun Zhang, Xiao Liu, Hui Guan 
+<br> First Exploration in AI Today Workshop at ICML (EXAIT at ICML 2025)
+ 
+
+ - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF](http://guanh01.github.io/files/2025gsplit.pdf))]
 <br> Sandeep Polisetty, Juelin Liu, Yi Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini
 <br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025 (Acceptance Rate = 22% (61/271)) 
 
@@ -42,7 +48,7 @@ Model.** [[PDF](https://arxiv.org/pdf/2408.03913)]
 
 - **[MIPR'24] Structured Pruning for Multi-Task Deep Neural Networks.**[[PDF](https://arxiv.org/pdf/2304.06840)]
 <br> Siddhant Garg, Lijun Zhang, Hui Guan 
-<br> International Conference on Multimedia Information Processing and Retrieval, 2024.
+<br> International Conference on Multimedia Information Processing and Retrieval, August 07, 2024.
 
 - **[MobiSys'24] CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.** [[PDF](http://guanh01.github.io/files/2024mobisys-cactus.pdf)][[Code](https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference)]
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Shiwei Fang, Hui Guan, Deepak Ganesan. 
