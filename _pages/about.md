@@ -12,18 +12,20 @@ I am an Assistant Professor in the [College of Information and Computer Sciences
 
 My research aims to address a fundamental question in Machine Learning adoption: _How can we create machine learning systems that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on reducing the costs of model development and enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
 
-I am currently on leave from UMass and working at Amazon AWS on developing efficient and reliable LLM systems for safe and intelligent cloud operations. Please ping me at huiguan@amazon.com if you are interested in discussing the new exciting area or exploring research intern opportunities. 
+
+_I am currently on leave from UMass and working at AWS on developing efficient and reliable LLM systems for safe and intelligent cloud operations. Please ping me at huiguan@amazon.com if you are interested in discussing the new exciting area or exploring research intern opportunities at AWS._ 
 
 
 News
 ----
-- **[Apr. 2025]**: Congratulations to Sandeep for our work on Scaling Graph Neural Network Training on Large Graphs accepted to MLSys'25. The work proposes split parallelism that distributes mini-batch GNN training workloads across multi-GPUs to reduce redundant data movement and computation and thus accelerate training.    
+- **[May. 2025]**: 🎉🎉🎉Congratulations to [Lijun Zhang](https://zhanglijun95.github.io/), [Hanmei Yang](https://nicolemayer.github.io/), and [Jin Zhou](https://scholar.google.com/citations?user=mgDHw9AAAAAJ&hl=en) for successfully defending their PhD Thesis. Lijun will join Amazon as Postdoc Scientist; Hanmei will join Meta and Jin will join NVIDIA. Wish them a wonderful new jouney. 
 
-- **[Feb. 2025]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for successfully defending his PhD Thesis on "Optimized Resource Allocation for Serving Deep Learning Models". 🎉🎉🎉
+- **[Apr. 2025]**: ⭐Congratulations to Sandeep for our work on Scaling Graph Neural Network Training on Large Graphs accepted to MLSys'25. The work proposes split parallelism that distributes mini-batch GNN training workloads across multi-GPUs to reduce redundant data movement and computation and thus accelerate training.    
 
-- **[Feb. 2025]**: Congratulations to Sohaib and Qizheng for our work "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling" accepted to MLSys'25. We use Diffusion Models as a case study to demonstrate the potential of model cascading in improving model serving system efficiency (e.g, higher throughput, lower SLO violations, etc) 
-🔥🔥🔥 
+- **[Feb. 2025]**: 🎉Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for successfully defending his PhD Thesis on "Optimized Resource Allocation for Serving Deep Learning Models". 
 
+- **[Feb. 2025]**: 🔥Congratulations to Sohaib and Qizheng for our work "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling" accepted to MLSys'25. We use Diffusion Models as a case study to demonstrate the potential of model cascading in improving model serving system efficiency (e.g, higher throughput, lower SLO violations, etc) 
+ 
 - **[Oct. 2024]**: Congratulations to Lijun Zhang for our work "Attack-Resilient Image Watermarking Using Stable Diffusion" accepted to NeurIPS'24. 
 
 - **[Oct. 2024]**: Congratulations to Kunjal Panchal for our work "Thinking Forward: Memory-Efficient Federated Finetuning of Language Models" accepted to NeurIPS'24. 
