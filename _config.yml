@@ -69,6 +69,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - docs
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
