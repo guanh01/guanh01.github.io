@@ -105,6 +105,14 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  .news-scroll {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid $border-color;
+    padding: 0.5em 1em;
+    border-radius: $border-radius;
+  }
 }
 
 .page__hero {

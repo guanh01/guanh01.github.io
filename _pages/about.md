@@ -13,11 +13,13 @@ I am an Assistant Professor in the [College of Information and Computer Sciences
 My research aims to address a fundamental question in Machine Learning adoption: _How can we create machine learning systems that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on reducing the costs of model development and enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
 
 
-_I am currently on leave from UMass and working at AWS on developing efficient and reliable LLM systems for safe and intelligent cloud operations. Please ping me at huiguan@amazon.com if you are interested in discussing the new exciting area or exploring research intern opportunities at AWS._ 
+_I am currently on leave from UMass and working at AWS on developing efficient and reliable agentic systems for safe and intelligent cloud operations. Please ping me at huiguan@amazon.com if you are interested in discussing the new exciting area or exploring research intern opportunities at AWS._ 
 
 
 News
 ----
+<div class="news-scroll" markdown="1">
+
 - **[May. 2025]**: 🎉🎉🎉Congratulations to [Lijun Zhang](https://zhanglijun95.github.io/), [Hanmei Yang](https://nicolemayer.github.io/), and [Jin Zhou](https://scholar.google.com/citations?user=mgDHw9AAAAAJ&hl=en) for successfully defending their PhD Thesis. Lijun will join Amazon as Postdoc Scientist; Hanmei will join Meta and Jin will join NVIDIA. Wish them a wonderful new jouney. 
 
 - **[Apr. 2025]**: ⭐Congratulations to Sandeep for our work on Scaling Graph Neural Network Training on Large Graphs accepted to MLSys'25. The work proposes split parallelism that distributes mini-batch GNN training workloads across multi-GPUs to reduce redundant data movement and computation and thus accelerate training.    
@@ -100,8 +102,9 @@ Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022aut
 
 - **[May 2021]**: I have received an [Adobe Research Collaboration Grant](https://research.adobe.com/collaborations/) on developing resource-efficient deep multi-task learning solutions.
 
-- **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems. Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). 
+- **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems. Congratulations to [Lijun](https://zhanglijun95.github.io/resume/).
 
+</div>
 
 Awards
 ---- 

@@ -1,9 +1,7 @@
 **2025** 
-
  - **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807))]
 <br> Lijun Zhang, Xiao Liu, Hui Guan 
 <br> First Exploration in AI Today Workshop at ICML (EXAIT at ICML 2025)
- 
 
  - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF](http://guanh01.github.io/files/2025gsplit.pdf))]
 <br> Sandeep Polisetty, Juelin Liu, Yi Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini
@@ -17,7 +15,9 @@
 <br> Saurabh Bajaj, Hojae Son, Juelin Liu, Hui Guan, and Marco Serafini
 <br> Proceedings of the VLDB Endowment, 2025
 
-
+- **[Neurocomputing@25] Attacking all tasks at once using adversarial examples in multi-task learning.** [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757?via%3Dihub)]
+<br> Lijun Zhang, Xiao Liu, Kaleel Mahmood, Caiwen Ding, and Hui Guan
+<br> Neurocomputing, 2025. 
 
 **2024** 
 - **[IEEE Access'24] Information-Enhanced Graph Neural Network for Transcending Homophily Barriers.**[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10810421)]
