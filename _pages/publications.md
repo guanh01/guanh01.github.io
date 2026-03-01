@@ -5,23 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2026 (to appear)**
+**2026**
 
 - **[SenSys'26] WildFiT: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems.**
 <br> Mohammad Mehdi Rastikerdar, Jin Huang, Hui Guan, Deepak Ganesan
+<br> ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems, 2026.
 
 - **[MMSys'26] Atom: Efficient On-Device Video-Language Pipelines Through Modular Reuse.**
 <br> Kunjal Panchal, Saayan Mitra, Somdeb Sarkhel, Haoliang Wang, Ishita Dasgupta, Gang Wu, Hui Guan
+<br> ACM Multimedia Systems Conference, 2026.
 
 - **[PacificVis'26] A Four-Stage Framework of Visual Complexity and Trust as Mediated by Effort.**
 <br> Kylie Lin, Hui Guan, David N Rapp, Cindy Xiong Bearfield
+<br> IEEE Pacific Visualization Conference, 2026.
 
 **2025**
- - **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807))]
+- **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan
 <br> First Exploration in AI Today Workshop at ICML (EXAIT at ICML 2025)
 
- - **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF](http://guanh01.github.io/files/2025gsplit.pdf))]
+- **[MLSys'25] SPA: Scaling Graph Neural Network Training on Large Graphs via Probablistic Splitting.** [[PDF](http://guanh01.github.io/files/2025gsplit.pdf)]
 <br> Sandeep Polisetty, Juelin Liu, Yi Fung, Seung-Hwan Lim, Hui Guan, Marco Serafini
 <br> The Eighth Annual Conference on Machine Learning and Systems, Santa Clara, May 12-15, 2025 (Acceptance Rate = 22% (61/271))
 
@@ -37,14 +40,17 @@ author_profile: true
 <br> Lijun Zhang, Xiao Liu, Kaleel Mahmood, Caiwen Ding, and Hui Guan
 <br> Neurocomputing, 2025.
 
-- **[ARITH'25] An Empirical Study of Microscaling Formats for Low-Precision LLM Training.**
+- **[ARITH'25] An Empirical Study of Microscaling Formats for Low-Precision LLM Training.** [[PDF](https://www.computer.org/csdl/proceedings-article/arith/2025/215900a001/27Rt0ovaONW)]
 <br> Hanmei Yang, Summer Deng, Amit Nagpal, Maxim Naumov, Mohammad Janani, Tongping Liu, Hui Guan
+<br> 32nd IEEE Symposium on Computer Arithmetic, Jun 23-25, 2025.
 
-- **[CHI EA'25] What Makes a Visualization Visually Complex?**
+- **[CHI EA'25] What Makes a Visualization Visually Complex?** [[PDF](https://dl.acm.org/doi/abs/10.1145/3706599.3719983)]
 <br> Kylie Lin, Sean Sheng-tse Ru, David N Rapp, Hui Guan, Cindy Xiong Bearfield
+<br> Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2025.
 
-- **[TKDD'25] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.**
+- **[TKDD'25] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](https://dl.acm.org/doi/10.1145/3785464)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, Lijun Zhang, Xipeng Shen
+<br> ACM Transactions on Knowledge Discovery from Data, Volume 20, Issue 2, 2025.
 
 **2024**
 - **[IEEE Access'24] Information-Enhanced Graph Neural Network for Transcending Homophily Barriers.**[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10810421)]
@@ -97,8 +103,6 @@ High-Performance Parallel and Distributed Computing (HPDC'24), Pisa, Italy, June
 <br> The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024.
 <br> https://doi.org/10.1145/3617232.3624849
 
-
-
 **2023**
 - **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flow.pdf)][[Code](https://github.com/Astuary/Flow)]
 <br> Kunjal Panchal, Sunav Choudhary, Nisarg Parikh, Lijun Zhang, Hui Guan.
@@ -137,28 +141,23 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 
 - **[NeurIPS'22] AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.** [[PDF](http://guanh01.github.io/files/2022automtl.pdf)][[Code](https://github.com/zhanglijun95/AutoMTL)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan.
-<br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022), November 28, 2022.
-(Acceptance rate: 25.6%)
+<br> 36th Conference on Neural Information Processing Systems (NeurIPS 2022), November 28, 2022. (Acceptance rate: 25.6%)
 
 - **[AutoML'22] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> Lijun Zhang, Xiao Liu, Hui Guan.
 <br> 1st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate: 19.2%)
 
-
 - **[ICME'22] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
 <br> Lijun Zhang, Qizheng Yang, Xiao Liu, Hui Guan.
 <br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
-
 
 - **[CGO'22] Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.** [[PDF](http://guanh01.github.io/files/2022cgo.pdf)]
 <br> Zifan Nan, Xipeng Shen, Hui Guan.
 <br> The 2022 International Symposium on Code Generation and Optimization (CGO), Seoul, South Korea, 2022.
 
-
 - **[VLDB'22] COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.** [[PDF](https://arxiv.org/pdf/2111.09562.pdf)]
 <br> Sian Jin, Chengming Zhang, Xintong Jiang, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, and Dingwen Tao.
 <br> In International Conference on Very Large Data Bases, 2022.
-
 
 - **[CrossFL'22]  Flow: Fine-grained Personalized Federated Learning through Dynamic Routing.** [[PDF](https://crossfl2022.github.io/abstracts/Abstract9.pdf)][[Poster](https://crossfl2022.github.io/posters/Poster9.pdf)]
 <br> Kunjal Panchal, Hui Guan
@@ -182,7 +181,6 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 <br> Zifan Nan, Hui Guan, Xipeng Shen, and Chunhua Liao.
 <br> In The ACM SIGPLAN 2021 International Conference on Compiler Construction, 2021.
 
-
 - **[OSR'21] Scalable Graph Neural Network Training: The Case for Sampling.** [[PDF](http://guanh01.github.io/files/2021sampling.pdf)]
 <br> Marco Serafini, Hui Guan.
 <br> In ACM SIGOPS Operating Systems Review, 2021.
@@ -195,8 +193,7 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 <br> Hui Guan, Shaoshan Liu, Xiaolong Ma, Wei Niu, Bin Ren, Xipeng Shen, Yanzhi Wang, Pu Zhao. (Authors in Alphabetical Order)
 <br> In Communications of the ACM, 2021.
 
-
-- **[InformationSystems'21] Reuse-Centric K-Means Configuration.** [[PDF]](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)]
+- **[InformationSystems'21] Reuse-Centric K-Means Configuration.** [[PDF](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)]
 <br> Lijun Zhang, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim.
 <br> Information Systems, 2021.
 
@@ -206,21 +203,17 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 <br> Zifan Nan, Hui Guan, Xipeng Shen.
 <br> In The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Sacramento, California, United States, November 2020. (Acceptance rate: 101/360=28%)
 
-
 - **[MLSys'20] FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks.** [[PDF](http://guanh01.github.io/files/2020mlsys.pdf)]
 <br> Hui Guan, Laxmikant Kishor Mokadam, Xipeng Shen, Robert Patton.
 <br> MLSys'20. (Acceptance rate: 20.0% (34/170)).
-
 
 - **[TPDS'20] An Automatic Synthesizer of Advising Tools for High Performance Computing.** [[PDF](http://guanh01.github.io/files/2020tpds.pdf)]
 <br> Hui Guan, Xipeng Shen, and Hamid Krim.
 <br> In IEEE Transactions on Parallel and Distributed Systems (TPDS), 2020
 
-
 - **[NeurIPS'19] In-Place Zero-Space Memory Protection for CNN.** [[PDF](https://papers.nips.cc/paper/8810-in-place-zero-space-memory-protection-for-cnn.pdf)]
 <br> Hui Guan, Lin Ning, Zhen Lin, Xipeng Shen, Huiyang Zhou, and Seung-Hwan Lim.
 <br> In Advances in Neural Information Processing Systems, pp. 5735-5744. 2019. (Acceptance rate: 21.2% (1428/6743))
-
 
 - **[PLDI'19] Wootz: a Compiler-based Framework for Fast CNN Pruning via Composability.** [[PDF](http://guanh01.github.io/files/2019pldi.pdf)]
 <br> Hui Guan, Xipeng Shen, and Seung-Hwan Lim.
@@ -238,7 +231,7 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 <br> Randall Pittman, Hui Guan, Xipeng Shen, Seung-Hwan Lim, and Robert M. Patton.
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, p. 64. IEEE, 2018. (Acceptance rate: 23%)
 
-- **[ICDE'18] Reuse-Centric K-Means Configuration.** [[PDF]](http://guanh01.github.io/files/2018icde.pdf)]
+- **[ICDE'18] Reuse-Centric K-Means Configuration.** [[PDF](http://guanh01.github.io/files/2018icde.pdf)]
 <br> Hui Guan, Yufei Ding, Xipeng Shen, and Hamid Krim.
 <br> In 2018 IEEE 34th International Conference on Data Engineering (ICDE), pp. 1224-1227. IEEE, 2018. (short paper) (Acceptance rate: 23%)
 
@@ -250,9 +243,10 @@ Using Auxiliary Graphs.** [[PDF](http://guanh01.github.io/files/2023pact-GraphMi
 <br> Hui Guan, Xipeng Shen, and Hamid Krim.
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, p. 10. ACM, 2017. (Acceptance rate: 18% (61/327))
 
-- **[PLDI'17] "Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction.** [[PDF](http://guanh01.github.io/files/2017pldi.pdf)]
+- **[PLDI'17] Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction.** [[PDF](http://guanh01.github.io/files/2017pldi.pdf)]
 <br> Yufei Ding, Lin Ning, Hui Guan, and Xipeng Shen.
 <br> In Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 33-48. ACM, 2017. (Acceptance rate: 15% (47/322))
 
 - **[SPAWC'16] A topological collapse for document summarization.** [[PDF](http://guanh01.github.io/files/2016spawc.pdf)]
-<br> Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic.  In 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), pp. 1-5. IEEE, 2016.
+<br> Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic.
+<br> In 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), pp. 1-5. IEEE, 2016.
