@@ -1,39 +1,28 @@
-{% include base_path %}
-
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% if post.tag %}
+  {% assign tag_display = post.tag %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign tag_display = "" %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-
-    {% if post.paperurl %}
-    <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.paperurl }}" rel="paperurl"><b>{{ title }}</b></a> <br />
-    {{ post.authors }} <br /> In <i>{{ post.venue}} </i></p>
-
-    {% else %}
-    <p class="archive__item-excerpt" itemprop="description"><b>{{ title }}</b><br />
-      {{ post.authors }} <br /> In <i>{{ post.venue}} </i> (to appear)</p>
-    {% endif %}
-
-  </article>
-</div>
+<li>
+  <strong>[{{ tag_display }}] {{ post.title }}.</strong>
+  {% if post.paperurl %}<a href="{{ post.paperurl }}">[PDF]</a>{% endif %}
+  {% if post.codeurl %}<a href="{{ post.codeurl }}">[Code]</a>{% endif %}
+  {% if post.extra_links %}
+    {% assign links = post.extra_links | split: "|" %}
+    {% for link in links %}
+      {% assign parts = link | split: "~>" %}
+      {% if parts.size == 2 %}
+        <a href="{{ parts[1] }}">[{{ parts[0] }}]</a>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  <br />
+  {{ post.authors }}
+  <br />
+  <i>{{ post.venue }}</i>
+  {% if post.doi %}
+    <br />
+    <a href="{{ post.doi }}">{{ post.doi }}</a>
+  {% endif %}
+</li>

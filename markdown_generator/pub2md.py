@@ -1,157 +1,54 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
-# 
-# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `publications.py`. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one containing your data.
-# 
-# TODO: Make this work with BibTex and other databases of citations, rather than Stuart's non-standard TSV format and citation style.
-# 
-
-# ## Data format
-# 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
-# 
-# - `excerpt` and `paper_url` can be blank, but the others must have values. 
-# - `pub_date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
-# 
-# This is how the raw file looks (it doesn't look pretty, use a spreadsheet or other program to edit and create).
-
-# In[1]:
-
-
-# get_ipython().system('cat publications.csv')
-
-
-# ## Import pandas
-# 
-# We are using the very handy pandas library for dataframes.
-
-# In[2]:
-
+# Publications markdown generator for academicpages
+#
+# Reads publications.csv and generates _publications/*.md files with frontmatter.
+# CSV columns: pub_date,authors,title,venue,url_slug,paper_url,tag,code_url,extra_links,doi
 
 import pandas as pd
+import os
 
-
-# ## Import TSV
-# 
-# Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
-# 
-# I found it important to put this data in a tab-separated values format, because there are a lot of commas in this kind of data and comma-separated values can get messed up. However, you can modify the import statement, as pandas also has read_excel(), read_json(), and others.
-
-# In[3]:
-
-
-publications = pd.read_csv("publications.csv", sep=",", encoding = "utf-8", header=0)
-# publications
-
-
-# ## Escape special characters
-# 
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
-
-# In[4]:
-
+publications = pd.read_csv("publications.csv", sep=",", encoding="utf-8", header=0)
 
 html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
     "'": "&apos;"
-    }
+}
 
 def html_escape(text):
     """Produce entities within text."""
-    return "".join(html_escape_table.get(c,c) for c in text)
+    return "".join(html_escape_table.get(c, c) for c in text)
 
-
-# ## Creating the markdown files
-# 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
-
-# In[5]:
-
-
-import os
 for row, item in publications.iterrows():
     print(item.pub_date, item.url_slug)
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = str(item.pub_date)[:4]
-    
-    ## YAML variables
-    
-    md = "---\ntitle: \""   + item.title + '"\n'
-    
-    md += """collection: publications"""
-    
-    # md += """\npermalink: /publication/""" + html_filename
-    
-#     if len(str(item.excerpt)) > 5:
-#         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
-    
-    md += "\ndate: " + str(item.pub_date) 
-    
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
-#     md += "\ncitation: '" + html_escape(item.citation) + "'"
-    md += "\nauthors: '" + item.authors + "'"
-    
-    md += "\n---"
-    
-    ## Markdown description for individual page
-        
-#     if len(str(item.excerpt)) > 5:
-#         md += "\n" + html_escape(item.excerpt) + "\n"
-    
-#     if len(str(item.paper_url)) > 5:
-#         md += "\n[Download paper here](" + item.paper_url + ")\n" 
-        
-#     md += "\nRecommended citation: " + item.citation
-    
     md_filename = os.path.basename(md_filename)
-       
+
+    md = "---\n"
+    md += 'title: "' + item.title + '"\n'
+    md += "collection: publications\n"
+    md += "date: " + str(item.pub_date) + "\n"
+    md += "venue: '" + html_escape(item.venue) + "'\n"
+    md += "authors: '" + item.authors + "'\n"
+    md += 'tag: "' + item.tag + '"\n'
+
+    if len(str(item.paper_url)) > 5:
+        md += "paperurl: '" + item.paper_url + "'\n"
+
+    if len(str(item.get('code_url', ''))) > 5:
+        md += "codeurl: '" + item.code_url + "'\n"
+
+    if len(str(item.get('extra_links', ''))) > 5:
+        md += "extra_links: '" + item.extra_links + "'\n"
+
+    if len(str(item.get('doi', ''))) > 5:
+        md += "doi: '" + item.doi + "'\n"
+
+    md += "---"
+
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 
-
-# These files are in the publications directory, one directory below where we're working from.
-
-# In[6]:
-
-
-# get_ipython().system('ls ../_publications/')
-
-
-# In[7]:
-
-
-# get_ipython().system('cat ../_publications/2018-09-01-icde.md')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+print(f"\nGenerated {len(publications)} publication files.")
