@@ -14,12 +14,12 @@ Unified tagline: "We design algorithms and build systems for efficient and relia
 
 Four peer research areas in a 2x2 grid:
 
-1. **ML Serving & Inference** - Query-aware model scaling, accuracy-throughput tradeoffs, inference pipelines. Key papers: Proteus (ASPLOS'24), DiffServe (MLSys'25), Loki (HPDC'24).
-2. **Edge/IoT Intelligence** - Adaptive deep learning for resource-constrained environments. Key papers: CACTUS (MobiSys'24), WildFiT (SenSys'26), Atom (MMSys'26). Funded by NSF CAREER, MemDrive, DESC.
-3. **Efficient Training** - Memory-efficient training, low-precision formats, scaling. Key papers: ProTrain (MLSys'26).
-4. **Systems for AI Agents** (new/emerging area) - Agent serving, scheduling, optimization. No published work yet; future direction.
+1. **Learning** - Efficient training (ProTrain/MLSys'26, COMET/VLDB'22, FLEET/MLSys'20), federated learning (Flow/NeurIPS'23, Flash/ICML'23, Thinking Forward/NeurIPS'24), GNN training systems (SPA/MLSys'25, VLDB'25), multi-task learning (AutoMTL/NeurIPS'22, TreeMTL/AutoML'22, AdapMTL/ACMMM'24), compiler-based pruning/compression (Wootz/PLDI'19, CoCoPIE/CACM'21, NeurIPS'19).
+2. **Serving & Inference** - Query-aware model scaling, accuracy-throughput tradeoffs, inference pipelines, model fusion. Key papers: Proteus (ASPLOS'24), DiffServe (MLSys'25), Loki (HPDC'24), GMorph (EuroSys'24).
+3. **Edge & On-Device ML** - Adaptive deep learning for resource-constrained environments, context-aware classifiers, in-situ adaptation, on-device pipelines. Key papers: CACTUS (MobiSys'24), WildFiT (SenSys'26), Atom (MMSys'26), MobiCom'23. Funded by NSF CAREER, MemDrive, DESC.
+4. **Systems for AI Agents** (emerging area) - Agent serving, scheduling, optimization. No published work yet; future direction.
 
-Agent systems is NOT positioned as a convergence point of the other areas -- it's a peer alongside them.
+All four areas are peers. Agent systems is NOT positioned as a convergence point of the other areas.
 
 ### Homepage Layout
 
