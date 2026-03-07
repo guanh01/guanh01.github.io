@@ -5,7 +5,7 @@
 {% endif %}
 
 <li>
-  <strong>[{{ tag_display }}] {{ post.title }}.</strong>
+  <span class="venue-tag">{{ tag_display }}</span> <strong>{{ post.title }}.</strong>
   {% if post.paperurl %}<a href="{{ post.paperurl }}">[PDF]</a>{% endif %}
   {% if post.codeurl %}<a href="{{ post.codeurl }}">[Code]</a>{% endif %}
   {% if post.extra_links %}

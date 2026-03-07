@@ -5,24 +5,12 @@
 .archive {
   margin-bottom: 2em;
 
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-  }
-
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
 
     &:hover {
       text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
     }
   }
 }
@@ -242,4 +230,16 @@
       }
     }
   }
+}
+
+/* Venue tags for publications */
+.venue-tag {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: $link-color;
+  background: mix(#fff, $link-color, 90%);
+  border-radius: 3px;
+  margin-right: 0.25em;
 }
