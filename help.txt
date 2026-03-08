@@ -1,2 +1,6 @@
-Change navigation: _data > navigation.yml
-Change 1st page: _pages > about.md
+Homepage:      _pages/about.md
+Navigation:    _data/navigation.yml
+Publications:  Edit markdown_generator/publications.xlsx, then run `cd markdown_generator && python pub2md.py`
+Teaching:      _teaching/ (each file is one course entry; listed by _pages/teaching.html)
+Students:      students.md
+Services:      services.md

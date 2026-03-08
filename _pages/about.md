@@ -21,9 +21,9 @@ We design algorithms and build systems for efficient and reliable AI.
 <div class="research-grid" markdown="0">
   <div class="research-card">
     <h3>Learning Algorithms &amp; Systems</h3>
-    <p>Efficient training, federated learning, multi-task learning, GNN training, compiler-based optimization, watermarking, and learning on compressed data.</p>
+    <p>Scalable training methods, multi-task and federated learning, compiler-based optimization, and trustworthy AI.</p>
     <div class="research-card__papers">
-      ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24) · TKDD'25
+      ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
   </div>
   <div class="research-card">
