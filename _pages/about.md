@@ -55,9 +55,9 @@ Selected Publications <span class="selected-papers__more"><a href="/publications
 
 <ul class="selected-papers__list" markdown="0">
   <li><span class="venue-tag">MLSys'26</span> <strong>ProTrain: Efficient LLM Training via Automatic Memory Management.</strong> H. Yang, J. Zhou, Y. Fu, X. Wang, R. Roane, H. Guan, T. Liu. <a href="https://arxiv.org/pdf/2406.08334">[PDF]</a></li>
+  <li><span class="venue-tag">SenSys'26</span> <strong>WildFiT: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems.</strong> M. Rastikerdar, J. Huang, H. Guan, D. Ganesan. <a href="https://arxiv.org/pdf/2409.07796">[PDF]</a></li>
   <li><span class="venue-tag">MLSys'25</span> <strong>DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling.</strong> S. Ahmad, Q. Yang, H. Wang, R. Sitaraman, H. Guan. <a href="https://arxiv.org/pdf/2411.15381">[PDF]</a></li>
   <li><span class="venue-tag">ASPLOS'24</span> <strong>Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.</strong> S. Ahmad, H. Guan, B. Friedman, T. Williams, R. Sitaraman, T. Woo. <a href="http://guanh01.github.io/files/2024proteus.pdf">[PDF]</a></li>
-  <li><span class="venue-tag">MobiSys'24</span> <strong>CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference.</strong> M. Rastikerdar, J. Huang, S. Fang, H. Guan, D. Ganesan. <a href="http://guanh01.github.io/files/2024mobisys-cactus.pdf">[PDF]</a></li>
   <li><span class="venue-tag">NeurIPS'22</span> <strong>AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.</strong> L. Zhang, X. Liu, H. Guan. <a href="http://guanh01.github.io/files/2022automtl.pdf">[PDF]</a></li>
 </ul>
 
