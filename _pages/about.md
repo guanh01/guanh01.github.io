@@ -20,10 +20,10 @@ We design algorithms and build systems for efficient and reliable AI.
 
 <div class="research-grid" markdown="0">
   <div class="research-card">
-    <h3>Learning</h3>
-    <p>Efficient training, federated learning, multi-task learning, GNN training, and compiler-based model optimization.</p>
+    <h3>Learning Algorithms &amp; Systems</h3>
+    <p>Efficient training, federated learning, multi-task learning, GNN training, compiler-based optimization, watermarking, and learning on compressed data.</p>
     <div class="research-card__papers">
-      ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19)
+      ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24) · TKDD'25
     </div>
   </div>
   <div class="research-card">
@@ -40,11 +40,11 @@ We design algorithms and build systems for efficient and reliable AI.
       CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26)
     </div>
   </div>
-  <div class="research-card research-card--emerging">
-    <h3>Systems for AI Agents</h3>
-    <p>Efficient serving, scheduling, and orchestration for agentic AI workloads.</p>
+  <div class="research-card">
+    <h3>Agentic Systems</h3>
+    <p>Multi-agent systems for automated software engineering, cloud infrastructure reconciliation, and agentic AI workloads.</p>
     <div class="research-card__papers">
-      Emerging research direction
+      IaC Reconciliation (arXiv'25)
     </div>
   </div>
 </div>
