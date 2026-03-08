@@ -18,33 +18,33 @@ _Currently on leave at AWS, working on agentic AI systems for cloud automation a
 Research
 ----
 
-We design algorithms and build systems for efficient and reliable AI.
+We study ML efficiency across the full stack — from compiler optimizations and training algorithms to serving systems and edge deployment.
 
 <div class="research-grid" markdown="0">
   <div class="research-card">
     <h3>Learning Algorithms &amp; Systems</h3>
-    <p>Scalable training methods, multi-task learning, compiler-based optimization, trustworthy AI.</p>
+    <p>Co-designing across compilers, algorithms, and runtime systems to improve training efficiency.</p>
     <div class="research-card__papers">
       ProTrain (MLSys'26) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
   </div>
   <div class="research-card">
-    <h3>Serving &amp; Inference</h3>
-    <p>Query-aware model scaling, inference pipelines, and model fusion.</p>
+    <h3>Model Serving &amp; Inference</h3>
+    <p>Exploiting workload contexts to serve ML efficiently without over-provisioning hardware.</p>
     <div class="research-card__papers">
       Proteus (ASPLOS'24) · DiffServe (MLSys'25) · Loki (HPDC'24) · GMorph (EuroSys'24)
     </div>
   </div>
   <div class="research-card">
-    <h3>Edge &amp; On-Device ML</h3>
-    <p>Adaptive deep learning for resource-constrained IoT and edge environments, federated learning.</p>
+    <h3>On-Device Adaptive ML</h3>
+    <p>Building adaptive deep learning systems for resource-constrained edge environments.</p>
     <div class="research-card__papers">
       CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26) · Flow (NeurIPS'23) · Flash (ICML'23)
     </div>
   </div>
   <div class="research-card">
     <h3>Agentic Systems</h3>
-    <p>Agentic systems for automated coding and cloud operations tasks.</p>
+    <p>LLM-powered agents for automated coding and cloud infrastructure tasks.</p>
     <div class="research-card__papers">
       IaC Reconciliation (arXiv'25)
     </div>
