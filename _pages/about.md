@@ -10,7 +10,7 @@ redirect_from:
 
 My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable — from training and serving in the cloud to deployment on resource-constrained edge devices.
 
-We work across the full ML lifecycle: efficient training methods, intelligent model serving, and adaptive on-device inference. We're now expanding into systems for AI agents.
+We work across the full ML lifecycle: efficient training methods, intelligent model serving, and adaptive on-device inference.
 
 _Currently on leave at AWS, working on efficient and reliable agentic systems for cloud operations. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
