@@ -23,9 +23,9 @@ We design algorithms and build systems for efficient and reliable AI.
 <div class="research-grid" markdown="0">
   <div class="research-card">
     <h3>Learning Algorithms &amp; Systems</h3>
-    <p>Scalable training methods, multi-task and federated learning, and compiler-based optimization.</p>
+    <p>Scalable training methods, multi-task learning, compiler-based optimization, thrustworthy AI.</p>
     <div class="research-card__papers">
-      ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
+      ProTrain (MLSys'26) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
   </div>
   <div class="research-card">
@@ -37,9 +37,9 @@ We design algorithms and build systems for efficient and reliable AI.
   </div>
   <div class="research-card">
     <h3>Edge &amp; On-Device ML</h3>
-    <p>Adaptive deep learning for resource-constrained IoT and edge environments.</p>
+    <p>Adaptive deep learning for resource-constrained IoT and edge environments, federated learning.</p>
     <div class="research-card__papers">
-      CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26)
+      CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26) · Flow (NeurIPS'23) · Flash (ICML'23)
     </div>
   </div>
   <div class="research-card">
