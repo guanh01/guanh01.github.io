@@ -1,5 +1,6 @@
 # Website Redesign Design Doc
 
+Status: Implemented
 Date: 2026-03-06
 
 ## Goal
