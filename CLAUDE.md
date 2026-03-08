@@ -21,17 +21,17 @@ Development config override: `_config.dev.yml` sets localhost:4000, expanded SAS
 Publications are generated from a spreadsheet, not edited as markdown directly:
 
 1. Edit `markdown_generator/publications.xlsx`
-2. Export to `markdown_generator/publications.csv` (columns: `pub_date`, `authors`, `title`, `venue`, `url_slug`, `paper_url`)
-3. Run `cd markdown_generator && python pub2md.py` to regenerate all `_publications/*.md` files
+2. Run `cd markdown_generator && python pub2md.py` to regenerate all `_publications/*.md` files
 
 The `pub_date` must be `YYYY-MM-DD` format. Output files are named `YYYY-MM-DD-[url_slug].md`.
 
 ## Architecture
 
 - **`_config.yml`** — Main site config: author profile, collections, social links, plugin settings
-- **`_pages/`** — Top-level pages (about, publications, teaching, students, services). `about.md` serves as the homepage via `permalink: /`
+- **`_pages/`** — Top-level pages (about, publications, students, services). `about.md` serves as the homepage via `permalink: /`
+- **`teaching.md`** — Teaching page (root-level file rendered at `/teaching/`). Edit this file directly to update courses.
+- **`_teaching/`** — Only contains `2020-fall-mlsys.md` (a detail page linked from `teaching.md`)
 - **`_publications/`** — Auto-generated publication markdown files (do not hand-edit; regenerate via `pub2md.py`)
-- **`_teaching/`** — Course entries with frontmatter (title, type, link, excerpt)
 - **`_projects/`** — Project pages in HTML format
 - **`_layouts/`** — Page templates; `default.html` → `single.html` is the common chain
 - **`_includes/`** — Template partials (author profile sidebar, SEO, archive display variants)
