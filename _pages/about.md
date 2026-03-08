@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in machine learning systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning.
+My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable — from training and serving in the cloud to deployment on resource-constrained edge devices.
 
-My research aims to address a fundamental question in Machine Learning adoption: _How can we create machine learning systems that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems?_ To tackle this, my group focuses on reducing the costs of model development and enabling deep learning in resource-constrained edge environments. Our approaches leverage insights from the inherent trade-offs in accuracy and efficiency of machine learning, along with principles of system design such as composability, pipelining, and locality awareness. Ultimately, our aim is to democratize machine learning by making it a readily accessible technology applicable to a wide array of real-world scenarios.
+We work across the full ML lifecycle: efficient training methods, intelligent model serving, and adaptive on-device inference. We're now expanding into systems for AI agents.
 
-
-_I am currently on leave from UMass and working at AWS on developing efficient and reliable agentic systems for safe and intelligent cloud operations. Please ping me at huiguan@amazon.com if you are interested in discussing the new exciting area or exploring research intern opportunities at AWS._
+_Currently on leave at AWS, working on efficient and reliable agentic systems for cloud operations. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
 
 Research
