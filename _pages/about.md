@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable — from training and serving in the cloud to deployment on resource-constrained edge devices.
+My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable. Our work spans the full ML lifecycle — from efficient training and intelligent model serving in the cloud to adaptive inference on resource-constrained edge devices. We also explore problems at the frontier of generative AI, including trustworthy watermarking for AI-generated content and agentic systems for automated software engineering.
 
-We work across the full ML lifecycle: efficient training methods, intelligent model serving, and adaptive on-device inference.
-
-_Currently on leave at AWS, working on efficient and reliable agentic systems for cloud operations. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
+_Currently on leave at AWS, working on agentic AI systems for cloud automation and code transformation. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
 
 Research
