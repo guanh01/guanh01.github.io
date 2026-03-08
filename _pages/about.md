@@ -23,7 +23,7 @@ We design algorithms and build systems for efficient and reliable AI.
 <div class="research-grid" markdown="0">
   <div class="research-card">
     <h3>Learning Algorithms &amp; Systems</h3>
-    <p>Scalable training methods, multi-task learning, compiler-based optimization, thrustworthy AI.</p>
+    <p>Scalable training methods, multi-task learning, compiler-based optimization, trustworthy AI.</p>
     <div class="research-card__papers">
       ProTrain (MLSys'26) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
