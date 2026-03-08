@@ -1,6 +1,6 @@
 Homepage:      _pages/about.md
 Navigation:    _data/navigation.yml
 Publications:  Edit markdown_generator/publications.xlsx, then run `cd markdown_generator && python pub2md.py`
-Teaching:      _teaching/ (each file is one course entry; listed by _pages/teaching.html)
+Teaching:      teaching.md (root-level file rendered at /teaching/; _pages/teaching.html and _teaching/ collection are unused)
 Students:      students.md
 Services:      services.md
