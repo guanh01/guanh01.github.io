@@ -65,6 +65,22 @@ News
 ----
 <div class="news-scroll" markdown="1">
 
+- **[Jan. 2026]**: Congratulations to Mohammad and Jin for our work "WildFiT: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems" accepted to SenSys'26.
+
+- **[Jan. 2026]**: Congratulations to Hanmei for our work "ProTrain: Efficient LLM Training via Automatic Memory Management" accepted to MLSys'26.
+
+- **[Jan. 2026]**: Congratulations to Kunjal for our work "Atom: Efficient On-Device Video-Language Pipelines Through Modular Reuse" accepted to MMSys'26.
+
+- **[Jan. 2026]**: Congratulations to Kylie Lin for our work "A Four-Stage Framework of Visual Complexity and Trust as Mediated by Effort" accepted to PacificVis'26.
+
+- **[Nov. 2025]**: Thanks for the support from the NSF for the DESC project on [Repurposing Batteryless SmartPhones as Long-lived and Adaptable Sensors for Sustainable and Scalable Environmental Monitoring](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2449995&HistoricalAwards=false).
+
+- **[Nov. 2025]**: Thanks for the support from the NSF for the ACED project on [Revolutionizing Instrumental Analysis Using Foundation Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2435822&HistoricalAwards=false).
+
+- **[Oct. 2025]**: Congratulations to Hanmei for our work "An Empirical Study of Microscaling Formats for Low-Precision LLM Training" accepted to ARITH'25.
+
+- **[Oct. 2025]**: Congratulations to Saurabh for our work "Graph Neural Network Training Systems: A Performance Comparison of Full-Graph and Mini-Batch" accepted to VLDB'25.
+
 - **[May. 2025]**: 🎉🎉🎉Congratulations to [Lijun Zhang](https://zhanglijun95.github.io/), [Hanmei Yang](https://nicolemayer.github.io/), and [Jin Zhou](https://scholar.google.com/citations?user=mgDHw9AAAAAJ&hl=en) for successfully defending their PhD Thesis. Lijun will join Amazon as Postdoc Scientist; Hanmei will join Meta and Jin will join NVIDIA. Wish them a wonderful new jouney.
 
 - **[Apr. 2025]**: ⭐Congratulations to Sandeep for our work on Scaling Graph Neural Network Training on Large Graphs accepted to MLSys'25. The work proposes split parallelism that distributes mini-batch GNN training workloads across multi-GPUs to reduce redundant data movement and computation and thus accelerate training.
