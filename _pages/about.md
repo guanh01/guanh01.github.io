@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable. Our work spans the full ML lifecycle — from efficient training and intelligent model serving in the cloud to adaptive inference on resource-constrained edge devices. We also explore problems at the frontier of generative AI, including trustworthy watermarking for AI-generated content and agentic systems for automated software engineering.
+I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020.
+
+My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable. Our work spans the full ML lifecycle — from efficient training and intelligent model serving in the cloud to adaptive inference on resource-constrained edge devices. We are also exploring agentic systems for automated software engineering.
 
 _Currently on leave at AWS, working on agentic AI systems for cloud automation and code transformation. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
@@ -42,7 +44,7 @@ We design algorithms and build systems for efficient and reliable AI.
   </div>
   <div class="research-card">
     <h3>Agentic Systems</h3>
-    <p>Multi-agent systems for automated software engineering, cloud infrastructure reconciliation, and agentic AI workloads.</p>
+    <p>Agentic systems for automated software engineering and cloud operations.</p>
     <div class="research-card__papers">
       IaC Reconciliation (arXiv'25)
     </div>
