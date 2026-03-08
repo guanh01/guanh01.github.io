@@ -212,4 +212,12 @@
       text-decoration: underline;
     }
   }
+
+  .news-scroll {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid $border-color;
+    padding: 0.5em 1em;
+    border-radius: $border-radius;
+  }
 }
