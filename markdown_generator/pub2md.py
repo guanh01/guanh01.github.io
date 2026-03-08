@@ -9,7 +9,7 @@
 import pandas as pd
 import os
 
-publications = pd.read_csv("publications.csv", sep=",", encoding="utf-8", header=0)
+publications = pd.read_excel("publications.xlsx", header=0)
 
 html_escape_table = {
     "&": "&amp;",

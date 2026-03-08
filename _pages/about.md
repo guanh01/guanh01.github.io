@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020.
 
-My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable. Our work spans the full ML lifecycle — from efficient training and intelligent model serving in the cloud to adaptive inference on resource-constrained edge devices. We are also exploring agentic systems for automated software engineering.
+My group designs algorithms and builds systems that make machine learning fast, scalable, and reliable. Our work spans the full ML lifecycle — from efficient training and model serving to adaptive inference on resource-constrained edge devices. We are also exploring agentic systems for automated coding tasks.
 
 _Currently on leave at AWS, working on agentic AI systems for cloud automation and code transformation. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
@@ -23,14 +23,14 @@ We design algorithms and build systems for efficient and reliable AI.
 <div class="research-grid" markdown="0">
   <div class="research-card">
     <h3>Learning Algorithms &amp; Systems</h3>
-    <p>Scalable training methods, multi-task and federated learning, compiler-based optimization, and trustworthy AI.</p>
+    <p>Scalable training methods, multi-task and federated learning, and compiler-based optimization.</p>
     <div class="research-card__papers">
       ProTrain (MLSys'26) · Flow (NeurIPS'23) · Flash (ICML'23) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
   </div>
   <div class="research-card">
     <h3>Serving &amp; Inference</h3>
-    <p>Query-aware model scaling, accuracy-throughput tradeoffs, inference pipelines, and model fusion.</p>
+    <p>Query-aware model scaling, inference pipelines, and model fusion.</p>
     <div class="research-card__papers">
       Proteus (ASPLOS'24) · DiffServe (MLSys'25) · Loki (HPDC'24) · GMorph (EuroSys'24)
     </div>
@@ -44,24 +44,12 @@ We design algorithms and build systems for efficient and reliable AI.
   </div>
   <div class="research-card">
     <h3>Agentic Systems</h3>
-    <p>Agentic systems for automated software engineering and cloud operations.</p>
+    <p>Agentic systems for automated coding and cloud operations tasks.</p>
     <div class="research-card__papers">
       IaC Reconciliation (arXiv'25)
     </div>
   </div>
 </div>
-
-Selected Publications <span class="selected-papers__more"><a href="/publications/">View all →</a></span>
-----
-{: .selected-papers}
-
-<ul class="selected-papers__list" markdown="0">
-  <li><span class="venue-tag">MLSys'26</span> <strong>ProTrain: Efficient LLM Training via Automatic Memory Management.</strong> H. Yang, J. Zhou, Y. Fu, X. Wang, R. Roane, H. Guan, T. Liu. <a href="https://arxiv.org/pdf/2406.08334">[PDF]</a></li>
-  <li><span class="venue-tag">SenSys'26</span> <strong>WildFiT: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems.</strong> M. Rastikerdar, J. Huang, H. Guan, D. Ganesan. <a href="https://arxiv.org/pdf/2409.07796">[PDF]</a></li>
-  <li><span class="venue-tag">MLSys'25</span> <strong>DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling.</strong> S. Ahmad, Q. Yang, H. Wang, R. Sitaraman, H. Guan. <a href="https://arxiv.org/pdf/2411.15381">[PDF]</a></li>
-  <li><span class="venue-tag">ASPLOS'24</span> <strong>Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling.</strong> S. Ahmad, H. Guan, B. Friedman, T. Williams, R. Sitaraman, T. Woo. <a href="http://guanh01.github.io/files/2024proteus.pdf">[PDF]</a></li>
-  <li><span class="venue-tag">NeurIPS'22</span> <strong>AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning.</strong> L. Zhang, X. Liu, H. Guan. <a href="http://guanh01.github.io/files/2022automtl.pdf">[PDF]</a></li>
-</ul>
 
 News
 ----
