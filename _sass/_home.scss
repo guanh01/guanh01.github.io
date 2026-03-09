@@ -75,22 +75,6 @@
   }
 }
 
-/* Research Vision */
-.research-vision {
-  margin: 1.5em 0 2em;
-  padding: 1.25em 1.5em;
-  background: $code-background-color;
-  border-left: 3px solid $link-color;
-  border-radius: 4px;
-
-  p {
-    font-size: 0.95em;
-    line-height: 1.6;
-    margin: 0 0 0.75em;
-    &:last-child { margin-bottom: 0; }
-  }
-}
-
 /* Research Cards */
 .research-grid {
   display: grid;
