@@ -7,6 +7,17 @@ author_profile: false
 
 {% include base_path %}
 
+<div class="pub-filters">
+  <button class="pub-filter-pill active" data-area="all">All</button>
+  <button class="pub-filter-pill" data-area="learning-algorithms-and-systems">Learning Algorithms &amp; Systems</button>
+  <button class="pub-filter-pill" data-area="model-serving-and-inference">Model Serving &amp; Inference</button>
+  <button class="pub-filter-pill" data-area="edge-and-on-device-ml">Edge &amp; On-Device ML</button>
+  <button class="pub-filter-pill" data-area="agentic-systems">Agentic Systems</button>
+  <button class="pub-filter-pill" data-area="ai-for-systems">AI for Systems</button>
+  <button class="pub-filter-pill" data-area="miscellaneous">Miscellaneous</button>
+</div>
+
+<div id="pub-list">
 {% assign sorted = site.publications | sort: 'date' | reverse %}
 {% assign current_year = "" %}
 
@@ -17,7 +28,7 @@ author_profile: false
       </ul>
     {% endif %}
     {% assign current_year = pub_year %}
-    <h2>{{ pub_year }}</h2>
+    <h2 class="pub-year-heading">{{ pub_year }}</h2>
     <ul>
   {% endif %}
   {% include archive-single-publication.html %}
@@ -26,3 +37,49 @@ author_profile: false
 {% if current_year != "" %}
   </ul>
 {% endif %}
+</div>
+
+<script>
+(function() {
+  var pills = document.querySelectorAll('.pub-filter-pill');
+  var items = document.querySelectorAll('#pub-list li[data-areas]');
+  var headings = document.querySelectorAll('#pub-list .pub-year-heading');
+
+  function filterByArea(area) {
+    pills.forEach(function(p) {
+      p.classList.toggle('active', p.getAttribute('data-area') === area);
+    });
+
+    items.forEach(function(li) {
+      if (area === 'all') {
+        li.style.display = '';
+      } else {
+        var areas = li.getAttribute('data-areas').split(' ');
+        li.style.display = areas.indexOf(area) !== -1 ? '' : 'none';
+      }
+    });
+
+    headings.forEach(function(h2) {
+      var ul = h2.nextElementSibling;
+      if (!ul || ul.tagName !== 'UL') return;
+      var visible = ul.querySelectorAll('li:not([style*="display: none"])');
+      h2.style.display = visible.length ? '' : 'none';
+      ul.style.display = visible.length ? '' : 'none';
+    });
+  }
+
+  pills.forEach(function(pill) {
+    pill.addEventListener('click', function() {
+      var area = this.getAttribute('data-area');
+      filterByArea(area);
+      history.replaceState(null, '', area === 'all' ? '/publications/' : '?area=' + area);
+    });
+  });
+
+  var params = new URLSearchParams(window.location.search);
+  var initArea = params.get('area');
+  if (initArea) {
+    filterByArea(initArea);
+  }
+})();
+</script>

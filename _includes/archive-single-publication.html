@@ -4,7 +4,13 @@
   {% assign tag_display = "" %}
 {% endif %}
 
-<li>
+{% if post.research_areas %}
+  {% assign areas_joined = post.research_areas | join: " " %}
+{% else %}
+  {% assign areas_joined = "" %}
+{% endif %}
+
+<li data-areas="{{ areas_joined }}">
   <span class="venue-tag">{{ tag_display }}</span> <strong>{{ post.title }}.</strong>
   {% if post.paperurl %}<a href="{{ post.paperurl }}">[PDF]</a>{% endif %}
   {% if post.codeurl %}<a href="{{ post.codeurl }}">[Code]</a>{% endif %}

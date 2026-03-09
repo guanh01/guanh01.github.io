@@ -221,3 +221,33 @@
     border-radius: $border-radius;
   }
 }
+
+/* Publication Filter Pills */
+.pub-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+.pub-filter-pill {
+  padding: 0.35em 0.85em;
+  font-size: 0.85em;
+  border: 1px solid $border-color;
+  border-radius: 20px;
+  background: #fff;
+  color: mix(#fff, $text-color, 20%);
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: $link-color;
+    color: $link-color;
+  }
+
+  &.active {
+    background: $link-color;
+    border-color: $link-color;
+    color: #fff;
+  }
+}
