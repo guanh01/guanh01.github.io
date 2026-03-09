@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. My work focuses on designing algorithms and building systems and programming abstractions that reduce the cost of developing, training, and deploying machine learning models.
+I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. My research sits at the intersection of systems and machine learning. My work focuses on designing algorithms and building systems and programming abstractions that reduce the cost of developing, training, and deploying machine learning models.
 
 Modern AI systems are increasingly powerful but also increasingly expensive to build and operate. My lab aims to make AI more efficient, scalable, and reliable across the entire ML lifecycle — from training to serving to edge deployment. The long-term vision is to make AI capabilities more accessible and economically sustainable.
 
@@ -19,28 +19,28 @@ Research
 
 <div class="research-grid" markdown="0">
   <div class="research-card">
-    <h3>Scalable and Efficient Training</h3>
+    <h3>Learning Algorithms and Systems</h3>
     <p>Co-designing across algorithms and systems to accelerate training and reduce memory and compute costs.</p>
     <div class="research-card__papers">
       ProTrain (MLSys'26) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
     </div>
   </div>
   <div class="research-card">
-    <h3>Intelligent Model Serving and Inference</h3>
-    <p>Exploiting workload characteristics and model structure to serve ML efficiently without over-provisioning hardware.</p>
+    <h3> Model Serving and Inference</h3>
+    <p>Exploiting workload contexts to serve ML efficiently without over-provisioning hardware.</p>
     <div class="research-card__papers">
       Proteus (ASPLOS'24) · DiffServe (MLSys'25) · Loki (HPDC'24) · GMorph (EuroSys'24)
     </div>
   </div>
   <div class="research-card">
     <h3>Edge and On-Device Machine Learning</h3>
-    <p>Building adaptive deep learning systems that dynamically adjust to the resource constraints and environmental shifts of edge and IoT deployments.</p>
+    <p>Building adaptive deep learning systems to enable edge and IoT deployments.</p>
     <div class="research-card__papers">
       CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26) · Flow (NeurIPS'23) · Flash (ICML'23)
     </div>
   </div>
   <div class="research-card">
-    <h3>AI-Driven Infrastructure and Agentic Systems</h3>
+    <h3>Agentic Systems</h3>
     <p>Using LLM-powered agents to automate coding, cloud infrastructure management, and operational tasks.</p>
     <div class="research-card__papers">
       IaC Reconciliation (arXiv'25)
