@@ -5,6 +5,8 @@ date: 2023-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems, 2023'
 authors: 'Lijun Zhang, Xiao Liu, Hui Guan'
 tag: "TNNLS'23"
+research_areas:
+  - learning-algorithms-and-systems
 paperurl: 'https://ieeexplore.ieee.org/document/10171463'
 codeurl: 'https://github.com/zhanglijun95/TreeMTL'
 ---

@@ -5,4 +5,6 @@ date: 2026-04-01
 venue: 'IEEE Pacific Visualization Conference, 2026'
 authors: 'Kylie Lin, Hui Guan, David N Rapp, Cindy Xiong Bearfield'
 tag: "PacificVis'26"
+research_areas:
+  - miscellaneous
 ---

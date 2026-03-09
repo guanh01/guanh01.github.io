@@ -4,6 +4,8 @@ collection: publications
 date: 2025-06-01
 venue: 'Neurocomputing, 2025'
 authors: 'Lijun Zhang, Xiao Liu, Kaleel Mahmood, Caiwen Ding, and Hui Guan'
-tag: "Neurocomputing'25"
+tag: "Neurocomputing@25"
+research_areas:
+  - learning-algorithms-and-systems
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757?via%3Dihub'
 ---

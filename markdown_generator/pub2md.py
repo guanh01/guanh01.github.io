@@ -34,6 +34,12 @@ for row, item in publications.iterrows():
     md += "authors: '" + item.authors + "'\n"
     md += 'tag: "' + item.tag + '"\n'
 
+    if len(str(item.get('research_area', ''))) > 1:
+        areas = [a.strip() for a in str(item.research_area).split(',')]
+        md += "research_areas:\n"
+        for area in areas:
+            md += "  - " + area + "\n"
+
     if len(str(item.paper_url)) > 5:
         md += "paperurl: '" + item.paper_url + "'\n"
 
