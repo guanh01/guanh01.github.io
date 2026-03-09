@@ -18,34 +18,26 @@ Research
 ----
 
 <div class="research-grid" markdown="0">
-  <div class="research-card">
+  <a class="research-card" href="/publications/?area=learning-algorithms-and-systems">
     <h3>Learning Algorithms and Systems</h3>
     <p>Co-designing across algorithms and systems to accelerate training and reduce memory and compute costs.</p>
-    <div class="research-card__papers">
-      ProTrain (MLSys'26) · AutoMTL (NeurIPS'22) · SPA (MLSys'25) · Wootz (PLDI'19) · Zodiac (NeurIPS'24)
-    </div>
-  </div>
-  <div class="research-card">
-    <h3> Model Serving and Inference</h3>
+    <span class="research-card__link">View publications &rarr;</span>
+  </a>
+  <a class="research-card" href="/publications/?area=model-serving-and-inference">
+    <h3>Model Serving and Inference</h3>
     <p>Exploiting workload contexts to serve ML efficiently without over-provisioning hardware.</p>
-    <div class="research-card__papers">
-      Proteus (ASPLOS'24) · DiffServe (MLSys'25) · Loki (HPDC'24) · GMorph (EuroSys'24)
-    </div>
-  </div>
-  <div class="research-card">
+    <span class="research-card__link">View publications &rarr;</span>
+  </a>
+  <a class="research-card" href="/publications/?area=edge-and-on-device-ml">
     <h3>Edge and On-Device Machine Learning</h3>
     <p>Building adaptive deep learning systems to enable edge and IoT deployments.</p>
-    <div class="research-card__papers">
-      CACTUS (MobiSys'24) · WildFiT (SenSys'26) · Atom (MMSys'26) · Flow (NeurIPS'23) · Flash (ICML'23)
-    </div>
-  </div>
-  <div class="research-card">
+    <span class="research-card__link">View publications &rarr;</span>
+  </a>
+  <a class="research-card" href="/publications/?area=agentic-systems">
     <h3>Agentic Systems</h3>
     <p>Using LLM-powered agents to automate coding, cloud infrastructure management, and operational tasks.</p>
-    <div class="research-card__papers">
-      IaC Reconciliation (arXiv'25)
-    </div>
-  </div>
+    <span class="research-card__link">View publications &rarr;</span>
+  </a>
 </div>
 
 News

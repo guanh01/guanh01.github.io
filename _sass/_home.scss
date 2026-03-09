@@ -88,14 +88,22 @@
 }
 
 .research-card {
+  display: block;
   padding: 1.25em;
   border: 1px solid $border-color;
   border-radius: 6px;
   background: #fff;
+  text-decoration: none;
+  color: inherit;
   transition: box-shadow 0.2s ease;
 
   &:hover {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+
+    .research-card__link {
+      color: $link-color-hover;
+    }
   }
 
   h3 {
@@ -105,30 +113,16 @@
   }
 
   p {
-    margin: 0 0 0.5em;
+    margin: 0 0 0.75em;
     font-size: 0.85em;
     color: mix(#fff, $text-color, 25%);
     line-height: 1.5;
   }
 
-  .research-card__papers {
+  .research-card__link {
     font-size: 0.8em;
-    color: $gray;
-
-    a {
-      color: $link-color;
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-    }
+    color: $link-color;
   }
-}
-
-.research-card--emerging {
-  border-style: dashed;
-  background: $code-background-color;
 }
 
 /* Selected Papers */
