@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. My research sits at the intersection of systems and machine learning. My work focuses on designing algorithms and building systems and programming abstractions that reduce the cost of developing, training, and deploying machine learning models.
+I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. My research sits at the intersection of systems and machine learning. My work focuses on designing algorithms and building systems and programming abstractions that reduce the cost of developing, training, and deploying AI — from efficient model training to scalable inference serving to autonomous agentic systems.
 
 Modern AI systems are increasingly powerful but also increasingly expensive to build and operate. My lab aims to make AI more efficient, scalable, and reliable across the entire ML lifecycle — from training to serving to edge deployment. The long-term vision is to make AI capabilities more accessible and economically sustainable.
 
@@ -76,7 +76,7 @@ News
 
 - **[Mar. 2024]**: Congratulations to [Sohaib](https://sohaibahmad759.github.io/) for our work "Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling" accepted to [HPDC'24](https://www.hpdc.org/2024/).
 
-- **[Mar. 2024]**: Thanks for the gift funds from [Adobe](https://research.adobe.com/) and [Dobly](https://www.dolby.com/).
+- **[Mar. 2024]**: Thanks for the gift funds from [Adobe](https://research.adobe.com/) and [Dolby](https://www.dolby.com/).
 
 - **[Feb. 2024]**: Thanks for the support from the NSF for the CAREER award on [Adaptive Deep Learning Systems Towards Edge Intelligence](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338512&HistoricalAwards=false).
 
