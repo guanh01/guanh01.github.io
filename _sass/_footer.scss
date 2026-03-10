@@ -10,11 +10,10 @@
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
+  position: relative;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 1em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -50,6 +49,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: center;
 }
 
 .page__footer-follow {
