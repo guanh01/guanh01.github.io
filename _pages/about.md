@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. My research sits at the intersection of systems and machine learning. My work focuses on designing algorithms and building systems and programming abstractions that reduce the cost of developing, training, and deploying AI — from efficient model training to scalable inference serving to autonomous agentic systems.
-
-Modern AI systems are increasingly powerful but also increasingly expensive to build and operate. My lab aims to make AI more efficient, scalable, and reliable across the entire ML lifecycle — from training to serving to edge deployment. The long-term vision is to make AI capabilities more accessible and economically sustainable.
+I am an Assistant Professor at the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. I received my Ph.D. from North Carolina State University in 2020. Modern AI systems are increasingly powerful but also expensive to build and operate. My research sits at the intersection of systems and machine learning, focusing on algorithms, systems, and programming abstractions that make AI more efficient and accessible — spanning model training, inference serving, edge deployment, and autonomous agentic systems.
 
 _Currently on leave at AWS, working on agentic AI systems for cloud automation and code transformation. Reach me at huiguan@amazon.com if you're interested in this space or research internships._
 
