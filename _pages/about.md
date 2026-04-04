@@ -28,7 +28,7 @@ Research
   </a>
   <a class="research-card" href="/publications/?area=edge-and-on-device-ml">
     <h3>Edge and On-Device Machine Learning</h3>
-    <p>Building adaptive deep learning systems to enable edge and IoT deployments.</p>
+    <p>Bringing intelligence on device through context-aware adaptation under tight resource budgets.</p>
     <span class="research-card__link">View publications &rarr;</span>
   </a>
   <a class="research-card" href="/publications/?area=agentic-systems">
