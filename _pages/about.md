@@ -41,6 +41,11 @@ Research
 News
 ----
 <div class="news-scroll" markdown="1">
+- **[May. 2026]**: Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for two papers accepted to ICML'26: "Memory Savings at What Cost? A Study of Alternatives to Backpropagation" and "Mosaic: Runtime-Efficient Multi-Agent Embodied Planning".
+
+- **[May. 2026]**: Congratulations to Xiao Liu for our work "ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference" accepted to ICML'26.
+
+- **[May. 2025]**: 🎉Congratulations to [Kunjal Panchal](https://astuary.github.io/Kunjal/) for successfully defending her PhD Thesis. 
 
 - **[Jan. 2026]**: Congratulations to Mohammad and Jin for our work "WildFiT: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems" accepted to SenSys'26.
 
