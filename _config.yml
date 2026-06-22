@@ -124,9 +124,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -156,15 +153,6 @@ defaults:
       author_profile: false
       share: true
       comments:
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
