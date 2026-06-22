@@ -8,5 +8,5 @@ tag: "ICML'26"
 research_areas:
   - learning-algorithms-and-systems
   - edge-and-on-device-ml
-paperurl: 'https://arxiv.org/html/2510.08804v3'
+paperurl: 'https://icml.cc/virtual/2026/poster/62291'
 ---
