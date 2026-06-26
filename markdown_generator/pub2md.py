@@ -22,14 +22,15 @@ def html_escape(text):
     return "".join(html_escape_table.get(c, c) for c in text)
 
 for row, item in publications.iterrows():
-    print(item.pub_date, item.url_slug)
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+    pub_date = pd.to_datetime(item.pub_date).strftime('%Y-%m-%d')
+    print(pub_date, item.url_slug)
+    md_filename = pub_date + "-" + item.url_slug + ".md"
     md_filename = os.path.basename(md_filename)
 
     md = "---\n"
     md += 'title: "' + item.title + '"\n'
     md += "collection: publications\n"
-    md += "date: " + str(item.pub_date) + "\n"
+    md += "date: " + pub_date + "\n"
     md += "venue: '" + html_escape(item.venue) + "'\n"
     md += "authors: '" + item.authors + "'\n"
     md += 'tag: "' + item.tag + '"\n'
