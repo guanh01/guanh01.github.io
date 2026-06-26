@@ -8,4 +8,5 @@ tag: "SenSys'26"
 research_areas:
   - learning-algorithms-and-systems
   - edge-and-on-device-ml
+paperurl: 'https://arxiv.org/abs/2409.07796'
 ---

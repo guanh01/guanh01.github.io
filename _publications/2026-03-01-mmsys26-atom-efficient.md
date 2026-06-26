@@ -7,4 +7,5 @@ authors: 'Kunjal Panchal, Saayan Mitra, Somdeb Sarkhel, Haoliang Wang, Ishita Da
 tag: "MMSys'26"
 research_areas:
   - edge-and-on-device-ml
+paperurl: 'https://arxiv.org/abs/2512.17108'
 ---
