@@ -1,9 +1,9 @@
 **Current Ph.D. Students**
 
 - [Xiao Liu](https://johnsmith2012.github.io/resume/) (Fall 2021)
-- [Sandeep Polisetty](https://sandeep06011991.github.io/) (co-advised with Prof. [Marco Serefini](https://marcoserafini.github.io/)) 
+- [Sandeep Polisetty](https://sandeep06011991.github.io/) (co-advised with Prof. [Marco Serefini](https://marcoserafini.github.io/); now at Amazon)
 - [Qizheng Yang](https://www.linkedin.com/in/qizheng-yang-117359231) (Summer 2022)
-- [Mingcan Xiang](https://mitchellx.github.io/)
+- [Mingcan Xiang](https://mitchellx.github.io/) (now at Adobe)
 - [Steven Tang](https://xttechgroup.com/)
 
 
