@@ -45,32 +45,16 @@ include:
   - _pages
   - files
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
   - .bundle
   - docs
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
+  - vendor
   - Gemfile
-  - Gruntfile.js
   - LICENSE
-  - README
-  - Rakefile
+  - markdown_generator
+  - CLAUDE.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-  - markdown_generator
-  - CLAUDE.md
 keep_files:
   - .git
   - .svn

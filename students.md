@@ -16,7 +16,7 @@ I also work closely with the following amazing students from collaborators:
 
 Ph.D. 
 - [Jin Huang](https://dl.acm.org/profile/99659580629), Ph.D., graduated Spring 2026, NVIDIA 
-- [Kunjal Panchal](https://astuary.github.io/Kunjal/), Ph.D., graduated Spring 2026, Adobe
+- [Kunjal Panchal](https://astuary.github.io/Kunjal/), Ph.D., graduated 2026, Research Scientist at Adobe
 - [Lijun Zhang](https://zhanglijun95.github.io/resume/), Ph.D., graduated Spring 2025, Postdoc at Amazon 
 - [Sohaib Ahmad](https://sohaibahmad759.github.io/), Ph.D., graduated Spring 2025, Meta 
 - [Hanmei Yang](https://nicolemayer.github.io/), Ph.D., graduated Spring 2025, Meta 
