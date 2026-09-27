@@ -3,7 +3,7 @@ title: "AdapMTL: Adaptive Pruning Framework for Multitask Learning Model"
 collection: publications
 date: 2024-10-01
 venue: 'ACM MM &apos;24, October 28-November 1, 2024, Melbourne, VIC, Australia'
-authors: 'Mingcan Xiang, Jiaxun Tang, Qizheng Yang, Hui Guan, Tongping Liu'
+authors: 'Mingcan Xiang, Steven Jiaxun Tang, Qizheng Yang, Hui Guan, Tongping Liu'
 tag: "ACM MM'24"
 research_areas:
   - learning-algorithms-and-systems

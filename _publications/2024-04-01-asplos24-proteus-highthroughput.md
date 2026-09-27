@@ -3,7 +3,7 @@ title: "Proteus: A High-Throughput Inference-Serving System with Accuracy Scalin
 collection: publications
 date: 2024-04-01
 venue: 'The 2024 ACM Conference on Architectural Support for Programming Languages and Operating Systems, April 27-May 1, 2024'
-authors: 'Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo'
+authors: 'Sohaib Ahmad, Hui Guan, Brian D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo'
 tag: "ASPLOS'24"
 research_areas:
   - model-serving-and-inference

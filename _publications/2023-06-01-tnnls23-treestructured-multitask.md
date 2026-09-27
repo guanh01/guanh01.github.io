@@ -1,5 +1,5 @@
 ---
-title: "A Tree-Structured Multi-Task Model Architectures Recommendation System"
+title: "A Tree-Structured Multi-Task Model Architecture Recommendation System"
 collection: publications
 date: 2023-06-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems, 2023'

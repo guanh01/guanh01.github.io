@@ -1,5 +1,5 @@
 ---
-title: "HADIS: Hybrid Adaptive Diffusion Model Serving for Efficient Text-to-Image Generation"
+title: "HADIS: A Hybrid Architecture for Query-Aware Diffusion Model Serving"
 collection: publications
 date: 2027-04-01
 venue: 'The 22nd European Conference on Computer Systems (EuroSys 2027)'

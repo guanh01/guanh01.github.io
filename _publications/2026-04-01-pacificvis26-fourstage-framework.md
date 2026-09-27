@@ -7,4 +7,5 @@ authors: 'Kylie Lin, Hui Guan, David N Rapp, Cindy Xiong Bearfield'
 tag: "PacificVis'26"
 research_areas:
   - miscellaneous
+paperurl: 'https://ieeexplore.ieee.org/document/11558675'
 ---
